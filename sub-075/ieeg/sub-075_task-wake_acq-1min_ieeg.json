@@ -1,6 +1,6 @@
 {
   "TaskName": "wake",
-  "TaskDescription": "Quiet wakefulness with eyes closed. One minute of artifact-free data from the first sleep cycle (sleep stages) or quiet wakefulness, as selected by the MNI Open iEEG Atlas authors.",
+  "TaskDescription": "Quiet wakefulness with eyes closed. One minute of artifact-free data from the first sleep cycle (sleep stages) or quiet wakefulness, as selected by the MNI Open iEEG Atlas authors. Source paper (Frauscher et al. 2018, Brain 141:1130, Methods): 60 s sections \"(either continuous or consecutive discontinuous >5 s segments after artefact exclusion)\" of \"resting wakefulness EEG with eyes closed recorded during standardized conditions\", part of the controlled 'eyes closed and eyes opened' recordings of the clinical intracranial EEG evaluation.",
   "InstitutionName": "Montreal Neurological Institute (MNI Open iEEG Atlas); multicentre data from three tertiary epilepsy centres (Frauscher et al. 2018, Brain 141:1130), coded G, M and N in the channel names",
   "SamplingFrequency": 200.0,
   "PowerLineFrequency": 60,
@@ -19,6 +19,7 @@
   "HardwareFilters": "n/a",
   "iEEGReference": "Bipolar montage between adjacent contacts of the same electrode (each channel is a bipolar derivation; source: one bipolar channel per column).",
   "ElectrodeManufacturer": "DIXI Medical (intracerebral depth electrodes)",
+  "iEEGPlacementScheme": "Clinically determined implantation (stereo-EEG depth electrodes and/or subdural grids/strips) for presurgical evaluation of drug-resistant focal epilepsy. Only bipolar channels with normal activity were released: in normal tissue on MRI, outside the seizure onset zone, without interictal epileptic discharges or overt slow-wave anomaly, in grey matter (Frauscher et al. 2018, Brain 141:1130, Methods).",
   "SEEGChannelCount": 13,
   "ECOGChannelCount": 0,
   "EEGChannelCount": 0,

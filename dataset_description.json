@@ -18,11 +18,13 @@
     "Jean Gotman",
     "Christine Rogers"
   ],
-  "Acknowledgements": "Data published by the authors in the MNI Open iEEG Atlas (https://mni-open-ieegatlas.research.mcgill.ca/), Montreal Neurological Institute. BIDS conversion for NEMAR by Bruno Aristimunha's iEEG-NEMAR campaign.",
+  "Acknowledgements": "Data published by the authors in the MNI Open iEEG Atlas (https://mni-open-ieegatlas.research.mcgill.ca/), Montreal Neurological Institute. BIDS conversion for NEMAR by Bruno Aristimunha's iEEG-NEMAR campaign. The source authors thank the LORIS team of the McConnell Brain Imaging Centre of McGill University, which hosts the atlas, and the EEG staff and technicians of the Montreal Neurological Institute and Hospital, the Neurophysiopathology Laboratory of Grenoble-Alpes University Hospital and the Centre Hospitalier de l'Université de Montréal (Frauscher et al. 2018, Brain 141:1130, Acknowledgements).",
   "HowToAcknowledge": "Please cite: Frauscher B, von Ellenrieder N, Zelmann R, Doležalová I, Minotti L, Olivier A, Hall J, Hoffmann D, Nguyen DK, Kahane P, Dubeau F, Gotman J. Atlas of the normal intracranial electroencephalogram: neurophysiological awake activity in different cortical areas. Brain 2018;141(4):1130-1144. doi:10.1093/brain/awy035; Frauscher B, von Ellenrieder N, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Gotman J. High-Frequency Oscillations in the Normal Human Brain. Ann Neurol 2018;84(3):374-385. doi:10.1002/ana.25304; von Ellenrieder N, Gotman J, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Frauscher B. How the Human Brain Sleeps: Direct Cortical Recordings of Normal Brain Activity. Ann Neurol 2020;87(2):289-301. doi:10.1002/ana.25651. Source: MNI Open iEEG Atlas, Montreal Neurological Institute, https://mni-open-ieegatlas.research.mcgill.ca/",
   "Funding": [
-    "Canadian Institutes of Health Research",
-    "Fonds de Recherche du Québec - Santé"
+    "Canadian Institutes of Health Research, grant FDN-143208 (to J.G.)",
+    "Fonds de Recherche du Québec - Santé (Chercheur-boursier clinicien Junior 2 to B.F.)",
+    "Savoy Epilepsy Foundation (project grant to B.F. and post-doctoral fellowship to R.Z.)",
+    "Botterell Powell's Foundation (grant to B.F.)"
   ],
   "EthicsApprovals": [
     "Montreal Neurological Institute (lead ethics organization for the multicentre MNI Open iEEG Atlas), REB vote MUHC-15-950. Frauscher et al. 2018, Brain 141:1130, Methods: \"Ethical approval was granted at the MNI as lead ethics organization (REB vote: MUHC-15-950).\""
@@ -31,7 +33,10 @@
     "https://mni-open-ieegatlas.research.mcgill.ca/",
     "https://doi.org/10.1093/brain/awy035",
     "https://doi.org/10.1002/ana.25651",
-    "https://doi.org/10.1002/ana.25304"
+    "https://doi.org/10.1002/ana.25304",
+    "https://pubmed.ncbi.nlm.nih.gov/29506200/",
+    "https://pubmed.ncbi.nlm.nih.gov/31777112/",
+    "https://pubmed.ncbi.nlm.nih.gov/30051505/"
   ],
   "Keywords": [
     "intracranial EEG",
@@ -40,7 +45,16 @@
     "atlas",
     "sleep",
     "wakefulness",
-    "MNI"
+    "MNI",
+    "epilepsy",
+    "drug-resistant focal epilepsy",
+    "SEEG",
+    "ECoG",
+    "REM sleep",
+    "NREM sleep",
+    "resting state",
+    "normative atlas",
+    "MNI152NLin2009aSym"
   ],
   "SourceDatasets": [
     {

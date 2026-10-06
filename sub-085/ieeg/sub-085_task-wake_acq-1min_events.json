@@ -17,10 +17,16 @@
     }
   },
   "sleep_stage": {
-    "Description": "Vigilance state of the segment as assigned by the source (W, N2, N3, R; AASM nomenclature); n/a for buffers/padding."
+    "Description": "Vigilance state of the segment as assigned by the source (W, N2, N3, R; AASM nomenclature); n/a for buffers/padding.",
+    "Levels": {
+      "W": "Wakefulness (quiet wakefulness, eyes closed)",
+      "N2": "Non-REM sleep stage N2",
+      "N3": "Non-REM sleep stage N3",
+      "R": "REM sleep (stage R)"
+    }
   },
   "segment_index": {
-    "Description": "1-based index of the artifact-free segment within this file."
+    "Description": "1-based index of the artifact-free segment within this file; n/a for buffers/padding."
   },
   "sample": {
     "Description": "First sample of the interval (0-based)."

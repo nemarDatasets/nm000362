@@ -19,6 +19,7 @@
   "HardwareFilters": "n/a",
   "iEEGReference": "Bipolar montage between adjacent contacts of the same electrode (each channel is a bipolar derivation; source: one bipolar channel per column).",
   "ElectrodeManufacturer": "Ad-Tech (subdural strips and grids)",
+  "iEEGPlacementScheme": "Clinically determined implantation (stereo-EEG depth electrodes and/or subdural grids/strips) for presurgical evaluation of drug-resistant focal epilepsy. Only bipolar channels with normal activity were released: in normal tissue on MRI, outside the seizure onset zone, without interictal epileptic discharges or overt slow-wave anomaly, in grey matter (Frauscher et al. 2018, Brain 141:1130, Methods).",
   "SEEGChannelCount": 0,
   "ECOGChannelCount": 23,
   "EEGChannelCount": 0,
