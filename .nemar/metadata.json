@@ -1,0 +1,112 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Birgit Frauscher": {},
+    "Nicolás von Ellenrieder": {},
+    "Rina Zelmann": {},
+    "Irena Doležalová": {},
+    "Lorella Minotti": {},
+    "André Olivier": {},
+    "Jeffery Hall": {},
+    "Dominique Hoffmann": {},
+    "Dang Khoa Nguyen": {},
+    "Philippe Kahane": {},
+    "François Dubeau": {},
+    "Jean Gotman": {},
+    "Christine Rogers": {}
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.1093/brain/awy035",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.1002/ana.25651",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.1002/ana.25304",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000362",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000362",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "Canadian Institutes of Health Research"
+    },
+    {
+      "funder_name": "Fonds de Recherche du Québec - Santé"
+    }
+  ],
+  "title": "MNI Open iEEG Atlas: normal intracranial EEG in wakefulness and sleep (processed 200 Hz atlas clips)",
+  "license": "CC-BY-NC-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "3.19 GB (1080 files)"
+  ],
+  "formats": [
+    ".eeg",
+    ".gz",
+    ".json",
+    ".pdf",
+    ".sha256",
+    ".tsv",
+    ".txt",
+    ".vhdr",
+    ".vmrk",
+    ".zip"
+  ],
+  "description": "A processed derivative release of the MNI Open iEEG Atlas, providing artifact-free intracranial EEG clips from 106 patients with drug-resistant focal epilepsy. It includes one minute per vigilance state (wakefulness, N2, N3, REM) plus up to 10 minutes of N2 and N3 sleep, recorded from channels judged to show normal activity. Data were low-pass filtered, resampled to 200 Hz, cleaned and concatenated by the source authors, and are provided with MNI-space electrode coordinates and region labels. The files are not continuous recordings: they consist of non-consecutive artifact-free segments separated by 2-s zero buffers and zero-padded at the end, annotated in events.tsv.",
+  "methods_description": "Source authors applied an 80 Hz anti-aliasing low-pass filter and resampling to 200 Hz, adaptive power-line removal (1-min set), visual artifact rejection, per-segment and per-channel mean removal, and concatenation of artifact-free segments separated by 2-s zero buffers, with zero padding to a common length. Channels are bipolar derivations. The data were repacked losslessly into BrainVision float32 format, with segments, buffers and padding annotated in events.tsv.",
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "stereo-EEG"
+    },
+    {
+      "term": "Sleep",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D012890"
+    },
+    {
+      "term": "Wakefulness",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D014851"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "normal brain activity"
+    },
+    {
+      "term": "atlas"
+    },
+    {
+      "term": "MNI"
+    }
+  ],
+  "source_hash": "7b4fd5043e77994952a6f844973cd49f964de48c5a12725ef43ed4ae6b70a8dc"
+}
