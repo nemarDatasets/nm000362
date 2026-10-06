@@ -24,5 +24,19 @@
   },
   "in_10min_nrem": {
     "Description": "Has acq-10min recordings (NREM-sleep-20min.mat)"
+  },
+  "atlas_hemispheres": {
+    "Description": "Hemisphere(s) of this patient's atlas channels, from the Hemisphere column of Information/ChannelInformation.csv of the MNI Open iEEG Atlas release (one row per atlas channel; only channels in normal tissue are included in the atlas); comma-separated.",
+    "Levels": {
+      "L": "left only",
+      "R": "right only",
+      "L,R": "both hemispheres"
+    }
+  },
+  "atlas_electrode_types": {
+    "Description": "Electrode types of this patient's atlas channels (Electrode type column of Information/ChannelInformation.csv of the MNI Open iEEG Atlas release (one row per atlas channel; only channels in normal tissue are included in the atlas)); comma-separated codes, A = AdTech intracerebral, D = DIXI intracerebral, G = AdTech subdural strips/grids, M = MNI homemade intracerebral (code meanings per the source readme)."
+  },
+  "atlas_n_channels": {
+    "Description": "Number of rows for this patient in Information/ChannelInformation.csv of the MNI Open iEEG Atlas release (one row per atlas channel; only channels in normal tissue are included in the atlas). Equals the rows of the subject's electrodes.tsv in this dataset (checked)."
   }
 }
