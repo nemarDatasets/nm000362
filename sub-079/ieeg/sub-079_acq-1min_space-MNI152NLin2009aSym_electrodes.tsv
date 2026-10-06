@@ -1,0 +1,12 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD079RPC10	41.5	-30.0	26.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD079RPC10
+MD079RPC11	46.0	-29.0	27.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD079RPC11
+MD079RPC12	49.0	-29.0	28.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD079RPC12
+MD079RPC13	55.0	-30.0	28.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD079RPC13
+MD079RPC14	58.0	-29.0	27.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD079RPC14
+MD079RIP1	37.0	-39.0	16.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD079RIP1
+MD079RIP2	40.0	-38.0	16.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD079RIP2
+MD079RIP3	44.0	-37.0	16.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD079RIP3
+MD079RIP4	49.0	-35.0	17.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD079RIP4
+MD079RIP5	52.0	-35.0	16.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD079RIP5
+MD079RIP6	58.0	-34.0	16.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD079RIP6

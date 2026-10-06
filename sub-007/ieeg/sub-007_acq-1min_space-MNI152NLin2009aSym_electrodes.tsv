@@ -1,0 +1,51 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD007Rd1	31.0	-35.0	-14.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rd1
+GD007Rd2	34.0	-35.0	-15.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rd2
+GD007Rd3	38.0	-35.0	-14.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rd3
+GD007Rt2	46.0	-28.0	3.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rt2
+GD007Rt5	59.0	-29.0	4.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rt5
+GD007Rt6	63.0	-28.0	3.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rt6
+GD007Rq1	37.0	9.0	-7.5	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD007Rq1
+GD007Rq2	42.0	8.0	-7.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD007Rq2
+GD007Rq3	45.0	9.0	-6.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD007Rq3
+GD007Rq4	49.0	8.0	-5.0	n/a	R	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rq4
+GD007Rq5	53.0	9.0	-3.0	n/a	R	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rq5
+GD007Rr1	38.0	3.0	5.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD007Rr1
+GD007Rr2	41.0	2.0	5.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rr2
+GD007Rr3	45.0	2.0	6.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rr3
+GD007Rr4	49.0	3.0	6.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rr4
+GD007Rr5	53.0	3.0	6.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rr5
+GD007Rr6	56.0	3.0	7.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rr6
+GD007Rr7	61.0	3.0	8.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rr7
+GD007Rs2	35.0	-27.0	23.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rs2
+GD007Rs3	38.0	-27.0	23.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rs3
+GD007Rs4	42.0	-27.0	23.5	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rs4
+GD007Rs5	47.0	-27.0	24.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rs5
+GD007Rz7	42.0	-18.0	7.0	n/a	R	34	Transverse temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rz7
+GD007Rz8	40.0	-21.0	13.0	n/a	R	34	Transverse temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rz8
+GD007Rz13	39.0	-25.0	31.0	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rz13
+GD007Rz14	38.0	-27.0	36.0	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rz14
+GD007Ry1	43.0	-6.0	-14.0	n/a	R	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD007Ry1
+GD007Ry2	41.0	-6.0	-10.0	n/a	R	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD007Ry2
+GD007Ry3	41.0	-8.0	-6.0	n/a	R	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD007Ry3
+GD007Ry4	41.0	-9.0	-2.0	n/a	R	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD007Ry4
+GD007Ry5	40.0	-9.0	2.0	n/a	R	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD007Ry5
+GD007Ry6	41.0	-12.0	7.0	n/a	R	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD007Ry6
+GD007Ry14	36.0	-19.0	41.0	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD007Ry14
+GD007Rx1	37.0	5.0	-10.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD007Rx1
+GD007Rx2	40.0	6.5	-6.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD007Rx2
+GD007Rx3	40.0	8.0	0.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD007Rx3
+GD007Rx10	45.0	19.0	27.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rx10
+GD007Rx14	46.0	25.0	41.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rx14
+GD007Rf1	3.0	-13.0	39.0	n/a	R	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rf1
+GD007Rf2	7.0	-14.0	39.0	n/a	R	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rf2
+GD007Rf7	28.5	-14.0	39.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rf7
+GD007Rf8	33.0	-13.0	39.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rf8
+GD007Rf9	38.0	-13.0	40.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rf9
+GD007Rf14	58.0	-12.0	40.0	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rf14
+GD007Rb1	2.0	-20.0	58.0	n/a	R	28	Medial segment of precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rb1
+GD007Rb2	5.0	-20.0	58.0	n/a	R	28	Medial segment of precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rb2
+GD007Rb3	10.0	-20.0	59.0	n/a	R	28	Medial segment of precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rb3
+GD007Rb7	28.0	-21.0	62.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rb7
+GD007Rb8	32.0	-21.0	62.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rb8
+GD007Rb9	37.0	-21.0	62.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD007Rb9

@@ -1,0 +1,11 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	status	status_description
+MM057RSMA1	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+MM057RSMA2	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+MM057RSMA4	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+MM057RSMA5	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+MM057RMs2	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+MM057RMs3	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+MM057RMs4	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+MM057RMs5	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+MM057RL1	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+MM057RL2	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors

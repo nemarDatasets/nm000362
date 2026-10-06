@@ -1,0 +1,60 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD029Rv1	8.0	-35.0	24.0	n/a	R	12	Posterior cingulate	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rv1
+GD029Rv12	48.0	-35.0	26.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rv12
+GD029Rv13	53.0	-35.0	26.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rv13
+GD029Rs1	35.0	-22.0	15.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rs1
+GD029Rs2	39.0	-22.0	16.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rs2
+GD029Rs3	42.0	-22.0	16.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rs3
+GD029Rs4	46.0	-23.0	17.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rs4
+GD029Rs5	49.0	-23.0	17.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rs5
+GD029Rs6	52.0	-22.0	17.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rs6
+GD029Rs7	56.0	-22.0	18.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rs7
+GD029Rs8	61.0	-22.0	17.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rs8
+GD029Rd3	36.0	-35.5	10.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rd3
+GD029Rd4	39.0	-36.0	10.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rd4
+GD029Rd5	42.0	-36.0	10.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rd5
+GD029Rd6	46.0	-35.0	10.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rd6
+GD029Rd7	49.0	-37.0	9.5	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rd7
+GD029Rd8	53.0	-37.0	12.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rd8
+GD029Rd9	57.0	-37.0	12.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rd9
+GD029Rd10	61.0	-36.0	12.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rd10
+GD029Rh1	8.0	11.0	25.0	n/a	R	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rh1
+GD029Rh9	36.0	7.0	28.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rh9
+GD029Rh10	39.0	7.0	28.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rh10
+GD029Rh11	42.0	7.0	29.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rh11
+GD029Rh12	46.0	7.0	30.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rh12
+GD029Rh13	51.0	7.0	30.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rh13
+GD029Ri1	6.0	-18.0	31.0	n/a	R	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Ri1
+GD029Ri12	46.0	-22.0	34.0	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD029Ri12
+GD029Ri13	50.0	-22.0	34.0	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD029Ri13
+GD029Rm1	6.0	-6.0	61.0	n/a	R	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rm1
+GD029Rm5	19.0	-7.0	61.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rm5
+GD029Rm6	25.0	-7.0	61.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rm6
+GD029Rn1	3.0	-17.0	58.0	n/a	R	28	Medial segment of precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rn1
+GD029Rn6	23.0	-18.0	58.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rn6
+GD029Rn10	36.0	-19.0	59.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rn10
+GD029Rn11	41.0	-18.0	59.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Rn11
+GD029Lx_1	-33.0	14.0	-14.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Lx_1
+GD029Lx_2	-34.0	15.0	-11.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Lx_2
+GD029Lx_3	-33.0	16.0	-8.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Lx_3
+GD029Lx_4	-32.0	18.0	-5.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Lx_4
+GD029Lx_5	-31.0	19.0	-1.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Lx_5
+GD029Lx_6	-31.0	21.0	3.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Lx_6
+GD029Lq_1	-34.0	5.0	7.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Lq_1
+GD029Lq_5	-49.0	4.0	8.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Lq_5
+GD029Lq_6	-54.0	4.0	9.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Lq_6
+GD029Lq_7	-60.0	4.0	9.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Lq_7
+GD029Lr_1	-39.0	-5.0	18.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Lr_1
+GD029Lr_4	-49.0	-5.0	19.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Lr_4
+GD029Lr_5	-53.0	-6.0	19.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Lr_5
+GD029Lr_6	-58.0	-6.0	19.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD029Lr_6
+GD029Ly_1	-39.0	-1.0	-13.0	n/a	L	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Ly_1
+GD029Ly_2	-39.0	-4.0	-10.0	n/a	L	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Ly_2
+GD029Ly_3	-38.0	-6.0	-8.0	n/a	L	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Ly_3
+GD029Ly_4	-39.0	-8.0	-5.0	n/a	L	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Ly_4
+GD029Ly_5	-38.0	-10.0	-2.0	n/a	L	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Ly_5
+GD029Ly_6	-37.0	-14.0	1.0	n/a	L	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Ly_6
+GD029Ly_10	-35.0	-23.0	15.0	n/a	L	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD029Ly_10
+GD029Lu_4	-50.0	-21.0	4.0	n/a	L	34	Transverse temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD029Lu_4
+GD029Lu_5	-54.0	-21.5	5.0	n/a	L	34	Transverse temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD029Lu_5
+GD029Lu_6	-59.0	-22.0	5.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD029Lu_6

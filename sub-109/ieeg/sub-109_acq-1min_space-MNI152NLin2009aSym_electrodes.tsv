@@ -1,0 +1,24 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG109LT51	20.964285714285715	-77.03571428571428	-14.285714285714285	n/a	L	5	Lingual gyrus and occipital fusiform gyrus	Occipital	G	Ad-Tech (subdural strips and grids)	NG109LT51
+NG109LT52	30.514285714285716	-69.4857142857143	-12.285714285714285	n/a	L	5	Lingual gyrus and occipital fusiform gyrus	Occipital	G	Ad-Tech (subdural strips and grids)	NG109LT52
+NG109LT54	47.2	-54.95	-14.25	n/a	L	32	Inferior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG109LT54
+NG109LT55	54.41428571428571	-44.91428571428572	-12.785714285714285	n/a	L	32	Inferior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG109LT55
+NG109RG215	65.38095238095238	-33.54761904761905	6.535714285714285	n/a	R	30	Superior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG109RG215
+NG109RG219	58.41428571428571	11.485714285714295	-0.7142857142857153	n/a	R	21	Frontal operculum	Frontal	G	Ad-Tech (subdural strips and grids)	NG109RG219
+NG109RG223	63.61904761904762	-28.95238095238095	16.964285714285715	n/a	R	35	Planum temporale	Temporal	G	Ad-Tech (subdural strips and grids)	NG109RG223
+NG109RG226	53.28571428571429	27.964285714285708	3.9642857142857153	n/a	R	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG109RG226
+NG109RG234	55.61904761904762	33.46428571428571	16.45238095238095	n/a	R	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG109RG234
+NG109RG242	52.58333333333333	40.5	27.666666666666664	n/a	R	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG109RG242
+NG109RG243	53.05	31.950000000000003	32.5	n/a	R	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG109RG243
+NG109RG41	57.60714285714286	-68.58928571428572	0.5714285714285694	n/a	R	2	Inferior ocipital gyrus and occipital pole	Occipital	G	Ad-Tech (subdural strips and grids)	NG109RG41
+NG109RG42	58.10714285714286	-65.21428571428572	12.82142857142857	n/a	R	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG109RG42
+NG109RG43	59.5	-61.5	26.5	n/a	R	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG109RG43
+NG109RG44	59.41666666666667	-55.75	37.083333333333336	n/a	R	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG109RG44
+NG109RG45	57.91666666666667	-49.5	45.833333333333336	n/a	R	9	Supramarginal gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG109RG45
+NG109RG46	57.08333333333333	-45.416666666666664	54.75	n/a	R	9	Supramarginal gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG109RG46
+NG109RG47	54.515151515151516	-40.3030303030303	61.29545454545455	n/a	R	9	Supramarginal gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG109RG47
+NG109RG410	58.66666666666666	-52.66666666666667	0.5	n/a	R	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG109RG410
+NG109RG411	59.58333333333333	-46.66666666666667	13.083333333333336	n/a	R	30	Superior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG109RG411
+NG109RG412	63.03571428571429	-42.11904761904762	25.61904761904762	n/a	R	9	Supramarginal gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG109RG412
+NG109RG413	63.03571428571429	-36.785714285714285	36.285714285714285	n/a	R	9	Supramarginal gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG109RG413
+NG109RG414	59.5	-31.125	45.5	n/a	R	9	Supramarginal gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG109RG414

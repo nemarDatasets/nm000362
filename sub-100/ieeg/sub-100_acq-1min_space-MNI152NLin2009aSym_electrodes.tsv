@@ -1,0 +1,42 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG100RG4	57.5	16.532592592592593	-15.948148148148146	n/a	R	33	Temporal pole and planum polare	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RG4
+NG100RG5	61.5	15.032592592592593	-14.948148148148146	n/a	R	33	Temporal pole and planum polare	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RG5
+NG100RG17	54.0	38.879999999999995	2.4000000000000057	n/a	R	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RG17
+NG100RG18	56.47916666666667	32.0025	4.0333333333333385	n/a	R	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RG18
+NG100RG19	57.97916666666667	24.5625	4.733333333333334	n/a	R	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RG19
+NG100RG20	58.5	17.413043478260875	7.747826086956522	n/a	R	22	Opercular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RG20
+NG100RG21	60.266666666666666	10.913043478260875	9.89782608695652	n/a	R	29	Precentral gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RG21
+NG100RG22	63.766666666666666	3.3400000000000034	8.769999999999996	n/a	R	29	Precentral gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RG22
+NG100RG25	54.0	41.349999999999994	18.5	n/a	R	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RG25
+NG100RG26	57.5	34.496739130434776	18.33260869565217	n/a	R	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RG26
+NG100RG27	59.0	26.589920948616594	19.69169960474308	n/a	R	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RG27
+NG100RG28	60.0	20.068181818181813	20.809090909090905	n/a	R	22	Opercular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RG28
+NG100RG29	63.827586206896555	13.603448275862064	20.658620689655173	n/a	R	29	Precentral gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RG29
+NG100RG30	69.32758620689656	5.078448275862058	20.30862068965517	n/a	R	29	Precentral gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RG30
+NG100RG31	74.0	-4.572619047619057	20.930952380952377	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	G	Ad-Tech (subdural strips and grids)	NG100RG31
+NG100RF21	9.523809523809526	29.927380952380943	-29.878571428571426	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RF21
+NG100RF22	20.023809523809526	35.20238095238095	-26.928571428571427	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RF22
+NG100RF24	41.0	33.06	-19.7	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RF24
+NG100RF25	47.5	28.585000000000008	-13.749999999999996	n/a	R	24	Orbital part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG100RF25
+NA100RU21	34.477272727272734	13.530909090909091	5.4272727272727295	n/a	R	13	Anterior insula	Insula	A	Ad-Tech (intracerebral depth electrodes)	NA100RU21
+NA100RU22	40.50108225108225	15.686147186147195	0.7748917748917776	n/a	R	13	Anterior insula	Insula	A	Ad-Tech (intracerebral depth electrodes)	NA100RU22
+NA100RU41	35.5	10.76190476190476	4.9285714285714235	n/a	R	13	Anterior insula	Insula	A	Ad-Tech (intracerebral depth electrodes)	NA100RU41
+NA100RU42	41.022727272727266	12.116883116883116	2.8398268398268414	n/a	R	21	Frontal operculum	Frontal	A	Ad-Tech (intracerebral depth electrodes)	NA100RU42
+NA100RH44	60.46153846153847	-16.11769230769231	-8.569230769230764	n/a	R	31	Middle temporal gyrus	Temporal	A	Ad-Tech (intracerebral depth electrodes)	NA100RH44
+NG100RT21	36.63492063492063	-27.52777777777778	-33.73412698412699	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT21
+NG100RT22	39.4299	-25.6731	-33.6332	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT22
+NG100RT23	41.8613	-23.0192	-34.1854	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT23
+NG100RT24	46.53846153846153	-18.286153846153844	-36.43076923076923	n/a	R	32	Inferior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT24
+NG100RT41	37.97916666666667	-26.541666666666664	-32.54166666666667	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT41
+NG100RT43	45.47916666666667	-28.101666666666667	-32.09166666666667	n/a	R	32	Inferior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT43
+NG100RT44	54.0	-30.51652173913044	-32.69130434782609	n/a	R	32	Inferior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT44
+NG100RT45	64.02272727272727	-29.66106719367589	-29.32312252964427	n/a	R	32	Inferior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT45
+NG100RT46	71.52272727272727	-22.729545454545452	-21.381818181818183	n/a	R	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT46
+NG100RT47	71.5	-13.174999999999997	-12.900000000000002	n/a	R	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT47
+NG100RT61	36.5	-88.98347826086956	-16.808695652173913	n/a	R	5	Lingual gyrus and occipital fusiform gyrus	Occipital	G	Ad-Tech (subdural strips and grids)	NG100RT61
+NG100RT62	46.83870967741936	-81.56903225806451	-15.522580645161291	n/a	R	2	Inferior ocipital gyrus and occipital pole	Occipital	G	Ad-Tech (subdural strips and grids)	NG100RT62
+NG100RT63	54.83870967741936	-74.03379416282641	-13.703533026113671	n/a	R	2	Inferior ocipital gyrus and occipital pole	Occipital	G	Ad-Tech (subdural strips and grids)	NG100RT63
+NG100RT64	64.525	-60.929761904761904	-10.355952380952381	n/a	R	32	Inferior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT64
+NG100RT66	73.025	-45.585	-6.774999999999999	n/a	R	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT66
+NG100RT67	73.5	-34.36769230769231	-3.4923076923076906	n/a	R	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT67
+NG100RT68	70.5	-19.736263736263737	1.283882783882781	n/a	R	30	Superior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG100RT68

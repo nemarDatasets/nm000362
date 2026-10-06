@@ -1,0 +1,11 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD045Rf4	33.5	-18.0	44.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD045Rf4
+GD045Rf5	37.0	-18.0	45.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD045Rf5
+GD045Rf6	41.0	-18.0	45.0	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD045Rf6
+GD045Rf7	45.0	-18.0	44.5	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD045Rf7
+GD045Rf8	50.0	-18.0	44.0	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD045Rf8
+GD045Re1	29.0	-53.0	0.0	n/a	R	5	Lingual gyrus and occipital fusiform gyrus	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD045Re1
+GD045Re6	48.0	-52.0	-4.0	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD045Re6
+GD045Re7	51.0	-52.0	-5.0	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD045Re7
+GD045Re8	54.0	-51.0	-4.5	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD045Re8
+GD045Re9	59.0	-50.0	-4.0	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD045Re9

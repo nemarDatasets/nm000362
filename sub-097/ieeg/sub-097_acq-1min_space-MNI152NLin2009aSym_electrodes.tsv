@@ -1,0 +1,8 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG097LT92	43.464285714285715	-71.47321428571428	47.839285714285715	n/a	L	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG097LT92
+NG097LT93	50.964285714285715	-66.45238095238095	42.54761904761905	n/a	L	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG097LT93
+NG097LT94	56.05	-60.56666666666666	37.63333333333333	n/a	L	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG097LT94
+NG097LT95	61.51428571428572	-52.18571428571428	33.58571428571428	n/a	L	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG097LT95
+NG097LP12	24.95238095238095	-42.95238095238095	42.11904761904763	n/a	L	7	Superior parietal lobule	Parietal	G	Ad-Tech (subdural strips and grids)	NG097LP12
+NG097LP13	55.61904761904762	-46.11904761904762	63.03571428571429	n/a	L	9	Supramarginal gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG097LP13
+NG097LP14	61.08333333333333	-39.583333333333336	56.25	n/a	L	9	Supramarginal gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG097LP14

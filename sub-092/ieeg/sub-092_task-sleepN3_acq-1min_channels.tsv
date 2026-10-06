@@ -1,0 +1,5 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	status	status_description
+NG092RP21	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG092RP22	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG092RP23	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG092RP24	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors

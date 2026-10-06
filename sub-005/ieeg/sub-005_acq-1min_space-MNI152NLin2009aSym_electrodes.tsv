@@ -1,0 +1,18 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD005Lv_1	-4.0	-52.0	25.0	n/a	L	11	Precuneus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lv_1
+GD005Lv_2	-8.0	-52.0	25.0	n/a	L	11	Precuneus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lv_2
+GD005Lv_9	-37.0	-51.0	26.0	n/a	L	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lv_9
+GD005Lx_2	-35.0	11.0	-2.0	n/a	L	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lx_2
+GD005Lx_3	-35.0	12.0	1.0	n/a	L	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lx_3
+GD005Lx_4	-36.0	14.0	5.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lx_4
+GD005Lx_5	-35.0	17.0	9.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lx_5
+GD005Ly_6	-33.0	-14.0	4.0	n/a	L	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD005Ly_6
+GD005Ly_7	-32.0	-16.0	7.0	n/a	L	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD005Ly_7
+GD005Ly_8	-32.0	-18.5	12.0	n/a	L	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD005Ly_8
+GD005Lw_1	-43.0	-2.0	-7.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lw_1
+GD005Lw_2	-47.0	-2.0	-5.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lw_2
+GD005Lw_3	-50.0	-3.0	-4.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lw_3
+GD005Lw_4	-54.0	-3.0	-4.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lw_4
+GD005Lw_5	-60.0	-4.0	-3.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lw_5
+GD005Lu_4	-49.0	-23.0	10.0	n/a	L	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lu_4
+GD005Lu_5	-54.0	-23.0	10.0	n/a	L	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD005Lu_5

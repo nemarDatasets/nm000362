@@ -1,0 +1,31 @@
+{
+  "onset": {
+    "Description": "Onset in seconds from the first sample of this file (file-relative only; the source provides no acquisition time).",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration in seconds.",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "Kind of interval, detected from the samples (not supplied as annotations by the source).",
+    "Levels": {
+      "artifact_free_segment": "Artifact-free section selected by the source authors. Consecutive segments in this file were NOT contiguous in the original recording.",
+      "zero_buffer_between_segments": "Zero-amplitude buffer inserted by the source between non-consecutive segments (all channels exactly 0 uV).",
+      "zero_padding_end": "Zero padding appended by the source to give every subject the same file length (all channels exactly 0 uV).",
+      "zero_samples_at_start": "All-channel exactly-zero samples at the start of the file (unexpected; listed for transparency)."
+    }
+  },
+  "sleep_stage": {
+    "Description": "Vigilance state of the segment as assigned by the source (W, N2, N3, R; AASM nomenclature); n/a for buffers/padding."
+  },
+  "segment_index": {
+    "Description": "1-based index of the artifact-free segment within this file."
+  },
+  "sample": {
+    "Description": "First sample of the interval (0-based)."
+  },
+  "n_samples": {
+    "Description": "Number of samples in the interval."
+  }
+}

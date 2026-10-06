@@ -1,0 +1,7 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	status	status_description
+GD046Lc_06	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+GD046Lc_07	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+GD046Lc_08	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+GD046Ld_01	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+GD046Ld_02	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+GD046Ld_03	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors

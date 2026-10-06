@@ -1,0 +1,16 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD040Ru06	61.0	-11.0	2.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Ru06
+GD040Ru07	65.0	-11.0	1.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Ru07
+GD040Rc07	60.0	-27.0	-13.0	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Rc07
+GD040Rc08	64.0	-28.0	-14.0	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Rc08
+GD040Rc09	68.0	-28.0	-14.0	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Rc09
+GD040Re03	39.0	-23.0	-25.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Re03
+GD040Re04	43.0	-23.0	-25.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Re04
+GD040Re05	47.0	-22.0	-25.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Re05
+GD040Lt_02	-45.0	6.0	-7.0	n/a	L	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Lt_02
+GD040Lt_05	-57.0	4.0	-7.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Lt_05
+GD040Lt_06	-61.0	1.0	-7.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Lt_06
+GD040Lu_03	-50.0	-12.0	3.0	n/a	L	34	Transverse temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Lu_03
+GD040Lu_04	-53.0	-14.0	2.0	n/a	L	34	Transverse temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Lu_04
+GD040Lu_05	-58.0	-14.0	2.0	n/a	L	34	Transverse temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Lu_05
+GD040Lu_06	-64.0	-15.0	2.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD040Lu_06

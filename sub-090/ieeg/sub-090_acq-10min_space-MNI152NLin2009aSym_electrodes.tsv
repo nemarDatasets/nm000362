@@ -1,0 +1,20 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM090RHp1	36.0	-34.5	-13.0	n/a	R	37	Hippocampus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RHp1
+MM090RHp2	40.0	-36.0	-11.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RHp2
+MM090RHp5	53.0	-44.0	-4.0	n/a	R	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RHp5
+MM090RHp6	59.0	-46.0	-2.0	n/a	R	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RHp6
+MM090RHp7	65.0	-49.0	-3.0	n/a	R	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RHp7
+MM090RHp8	69.0	-51.0	1.0	n/a	R	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RHp8
+MM090RT11	49.0	-40.0	1.0	n/a	R	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RT11
+MM090RT12	55.0	-40.0	3.0	n/a	R	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RT12
+MM090RT13	63.0	-40.0	2.0	n/a	R	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RT13
+MM090RT14	69.0	-40.0	2.5	n/a	R	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RT14
+MM090RT15	74.0	-40.0	3.0	n/a	R	30	Superior temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RT15
+MM090RT21	43.0	-57.0	-1.0	n/a	R	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RT21
+MM090RT22	49.0	-60.0	0.0	n/a	R	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RT22
+MM090RT23	55.0	-62.0	-1.0	n/a	R	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RT23
+MM090RT24	61.0	-64.0	-2.0	n/a	R	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RT24
+MM090RL1	16.5	-55.0	13.5	n/a	R	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RL1
+MM090RL2	23.0	-56.0	14.0	n/a	R	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RL2
+MM090RL3	28.0	-58.0	14.0	n/a	R	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RL3
+MM090RL5	37.5	-60.0	15.0	n/a	R	10	Angular gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM090RL5

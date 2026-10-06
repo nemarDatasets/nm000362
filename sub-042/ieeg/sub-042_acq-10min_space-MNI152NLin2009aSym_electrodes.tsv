@@ -1,0 +1,4 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD042Ro1	14.0	-72.0	0.0	n/a	R	5	Lingual gyrus and occipital fusiform gyrus	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD042Ro1
+GD042Ro8	43.0	-68.0	0.0	n/a	R	2	Inferior ocipital gyrus and occipital pole	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD042Ro8
+GD042Rs1	12.0	-69.0	15.0	n/a	R	3	Cuneus	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD042Rs1

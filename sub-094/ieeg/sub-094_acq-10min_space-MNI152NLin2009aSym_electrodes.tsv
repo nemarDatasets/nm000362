@@ -1,0 +1,26 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG094LF11	50.766666666666666	28.683333333333337	-11.55	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG094LF11
+NG094LF12	49.20833333333333	38.39583333333333	-5.8125	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG094LF12
+NG094LF31	65.12	0.04000000000000625	12.520000000000003	n/a	L	29	Precentral gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG094LF31
+NG094LF32	61.14	6.0625	22.2025	n/a	L	29	Precentral gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG094LF32
+NG094LF35	47.02083333333333	24.875905797101453	47.1856884057971	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG094LF35
+NG094LF36	36.5	29.64673913043478	55.227355072463766	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG094LF36
+NG094LF37	25.476190476190474	32.83928571428571	61.36607142857143	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	G	Ad-Tech (subdural strips and grids)	NG094LF37
+NA094RI25	8.0	57.25818181818181	35.790909090909096	n/a	R	27	Medial segment of superior frontal gyrus	Frontal	A	Ad-Tech (intracerebral depth electrodes)	NA094RI25
+NA094RI41	5.520000000000003	23.319999999999993	34.24	n/a	R	17	Middle cingulate	Frontal	A	Ad-Tech (intracerebral depth electrodes)	NA094RI41
+NA094RI42	6.0	38.019999999999996	39.300000000000004	n/a	R	27	Medial segment of superior frontal gyrus	Frontal	A	Ad-Tech (intracerebral depth electrodes)	NA094RI42
+NA094RI61	4.54673913043478	13.940217391304344	41.7695652173913	n/a	R	17	Middle cingulate	Frontal	A	Ad-Tech (intracerebral depth electrodes)	NA094RI61
+NA094RI62	5.521739130434781	25.648550724637673	45.45289855072464	n/a	R	18	Supplementary motor cortex	Frontal	A	Ad-Tech (intracerebral depth electrodes)	NA094RI62
+NG094RF25	33.050840336134456	44.58991596638654	48.56806722689075	n/a	R	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG094RF25
+NG094RF26	28.779411764705884	38.05614973262031	55.632352941176464	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	G	Ad-Tech (subdural strips and grids)	NG094RF26
+NG094RF27	21.774193548387096	31.215542521994138	61.50806451612904	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	G	Ad-Tech (subdural strips and grids)	NG094RF27
+NG094RF41	66.5	-16.390217391304354	24.882608695652173	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	G	Ad-Tech (subdural strips and grids)	NG094RF41
+NG094RF42	63.74074074074075	-2.0472222222222314	34.6	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	G	Ad-Tech (subdural strips and grids)	NG094RF42
+NG094RF43	57.102809706257986	11.13984674329501	41.689655172413794	n/a	R	29	Precentral gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG094RF43
+NG094RF44	50.36206896551724	20.2192118226601	45.189655172413794	n/a	R	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG094RF44
+NG094RF101	7.522727272727273	38.43181818181819	-22.25909090909091	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	G	Ad-Tech (subdural strips and grids)	NG094RF101
+NG094RF102	17.54356060606061	32.36931818181819	-18.200757575757578	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	G	Ad-Tech (subdural strips and grids)	NG094RF102
+NG094RF103	26.520833333333336	28.91576086956522	-13.82427536231884	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	G	Ad-Tech (subdural strips and grids)	NG094RF103
+NG094LF53	30.071581196581196	60.6025641025641	4.904914529914528	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG094LF53
+NG094LF54	37.742149758454104	54.58333333333333	1.716787439613526	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG094LF54
+NG094LF55	42.574414715719065	47.519230769230774	-1.1688963210702354	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG094LF55

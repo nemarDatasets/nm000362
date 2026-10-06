@@ -1,0 +1,58 @@
+{
+  "Name": "MNI Open iEEG Atlas: normal intracranial EEG in wakefulness and sleep (processed 200 Hz atlas clips)",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "derivative",
+  "License": "CC-BY-NC-4.0",
+  "Authors": [
+    "Birgit Frauscher",
+    "Nicolás von Ellenrieder",
+    "Rina Zelmann",
+    "Irena Doležalová",
+    "Lorella Minotti",
+    "André Olivier",
+    "Jeffery Hall",
+    "Dominique Hoffmann",
+    "Dang Khoa Nguyen",
+    "Philippe Kahane",
+    "François Dubeau",
+    "Jean Gotman",
+    "Christine Rogers"
+  ],
+  "Acknowledgements": "Data published by the authors in the MNI Open iEEG Atlas (https://mni-open-ieegatlas.research.mcgill.ca/), Montreal Neurological Institute. BIDS conversion for NEMAR by Bruno Aristimunha's iEEG-NEMAR campaign.",
+  "HowToAcknowledge": "Cite Frauscher B, von Ellenrieder N, Zelmann R, Doležalová I, Minotti L, Olivier A, Hall J, Hoffmann D, Nguyen DK, Kahane P, Dubeau F, Gotman J. Atlas of the normal intracranial electroencephalogram: neurophysiological awake activity in different cortical areas. Brain 2018;141(4):1130-1144. doi:10.1093/brain/awy035; and von Ellenrieder N, Gotman J, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Frauscher B. How the Human Brain Sleeps: Direct Cortical Recordings of Normal Brain Activity. Ann Neurol 2020;87(2):289-301. doi:10.1002/ana.25651. The source asks: \"Please cite this paper if you use the data in your work.\"",
+  "Funding": [
+    "Canadian Institutes of Health Research",
+    "Fonds de Recherche du Québec - Santé"
+  ],
+  "ReferencesAndLinks": [
+    "https://mni-open-ieegatlas.research.mcgill.ca/",
+    "https://doi.org/10.1093/brain/awy035",
+    "https://doi.org/10.1002/ana.25651",
+    "https://doi.org/10.1002/ana.25304"
+  ],
+  "Keywords": [
+    "intracranial EEG",
+    "stereo-EEG",
+    "normal brain activity",
+    "atlas",
+    "sleep",
+    "wakefulness",
+    "MNI"
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://mni-open-ieegatlas.research.mcgill.ca/",
+      "Version": "Document repository downloaded 2026-10-06; last upstream change September 2020 (changelog_September2020.txt)"
+    }
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "MNI Open iEEG Atlas processing (source authors)",
+      "Description": "Per source readmes: low-pass anti-aliasing filter at 80 Hz and resampling to 200 Hz (unless already 200 Hz); adaptive power-line removal (1-min set only); visual artifact rejection; per-segment, per-channel mean removal; concatenation of non-consecutive artifact-free segments with 2-s zero buffers; zero padding to a common length (13600 samples = 68 s for the 1-min set; 10 min 18 s / 10 min 26 s for the 10-min N2/N3 set)."
+    },
+    {
+      "Name": "laneF_convert_ieeg008.py + laneF_split_ieeg008.py (iEEG-NEMAR campaign, lane F)",
+      "Description": "Lossless repack of the source float32 arrays (MatlabFile.mat, NREM-sleep-20min.mat) into BrainVision IEEE_FLOAT_32 per subject/stage; zero buffers and padding detected (all channels exactly 0) and listed in events.tsv. No filtering, resampling or re-referencing."
+    }
+  ]
+}

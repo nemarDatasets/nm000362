@@ -1,0 +1,10 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD037Lv_14	-72.0	-44.0	25.0	n/a	L	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD037Lv_14
+GD037Lr_1	-49.5	-11.0	14.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD037Lr_1
+GD037Lr_3	-59.0	-10.0	15.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD037Lr_3
+GD037Lr_4	-62.0	-11.0	12.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD037Lr_4
+GD037Lr_5	-68.0	-11.0	11.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD037Lr_5
+GD037Ls_3	-54.0	-32.0	12.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD037Ls_3
+GD037Ls_4	-59.0	-33.0	12.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD037Ls_4
+GD037Ls_5	-64.0	-33.0	12.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD037Ls_5
+GD037Lv_12	-63.0	-42.0	25.0	n/a	L	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD037Lv_12

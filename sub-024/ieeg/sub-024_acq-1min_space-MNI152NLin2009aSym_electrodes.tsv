@@ -1,0 +1,7 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD024Lt_4	-57.0	-12.0	0.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD024Lt_4
+GD024Lu_3	-48.0	-29.0	3.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD024Lu_3
+GD024Lu_4	-52.0	-29.0	4.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD024Lu_4
+GD024Lu_5	-57.0	-29.0	5.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD024Lu_5
+GD024Lu_6	-60.0	-30.0	5.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD024Lu_6
+GD024Lu_7	-65.0	-30.0	4.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD024Lu_7

@@ -1,0 +1,46 @@
+1.0.0 2026-10-06
+  - First NEMAR release (derivative): acq-1min and acq-10min sets of the MNI Open iEEG Atlas.
+  - Upstream changelogs, verbatim:
+    2020:
+    
+    We replace the Data_N2 and Data_N3 variables in the Non-REM (20 min) dataset. The previous files had the same data for both stages by mistake.
+    2019:
+    
+    We added iEEG Data in sleep stages other than Wakefulness, as described in von Ellenrieder et al. (Annals of Neurology, 2019 https://doi.org/10.1002/ana.25651). Other than the extra available data, if you downloaded the wakefulness data before there is only one change:
+    
+    Changes: 
+    - A 'W' was added as the last character in the channel names.
+    
+    More details:
+    
+    To distinguish the sleep stages we added a letter at the end of the channel name. 'W' is for the wakefulness data, which is the same data that was avialable from before.
+    June 2018:
+    
+    As we received valuable feedback on the database, and we are also planning to expand it soon, we decided to make some changes to the avilable data.
+    
+    If you used the database for online visualization don't worry, the signals have not changed in any significant way.  However, if you downloaded the data to use in your research it would be advisable to download it again, or at least read carefully the list of changes.
+    
+    Changes: 
+    - A few channels were removed from the database.
+    - The name of some channels changed.
+    - The channel coordinates in MNI space were recomputed.
+    - Data in Matlab format were added to the download options.
+    - The mean of the signals was subtracted before concatenation of segments.
+    - Basic information on the patients was included to the available information.
+    - We include a readme file with detailed description of the data.
+    
+    More details:
+    
+    A few channels were removed from the database: 13 channels in which the automatic segmentation results were considered erroneous in a visual inspection were inadvertently kept in the database. We deleted these channels, changing the total channel count to 1772.
+    
+    The name of some channels changed: All channels with name beginning with 'N' were named as if they were recording form the right hemisphere, i.e. the sixth character was 'R' for all channels, even though some of them corresponded to the left hemisphere, as was indicated in the 'ChannelInformation.csv' file.
+    
+    The channel coordinates in MNI space were recomputed: The previous version of the electrode positions was obtained via a linear registration between the individual patients and the ICBM 2009a Nonlinear Symmetric 1×1x1mm template. The updated positions given now are the result of a non-linear registration to the same template. Note that this change does not affect the brain region associated to the channels, since the segmentation into brain regions used a different template and was performed originally with a non-linear coregistration.
+    
+    Data in Matlab format were added to the download options: To facilitate the use of the database we provide the data of all the channels in a single variable, we also provide the surface of the brain template used for segmentation coregistered to MNI space.
+    
+    The mean of the signals was subtracted before concatenation of segments: Previously the mean of the signals was subtracted after concatenating the different segments, now we subtract the mean of each segment before concatenation. In this way the buffer samples between segments have zero amplitude.
+    
+    Basic information on the patients was included to the available information: We added basic patient information (gender and age) to the information package. 
+    
+    We include a readme file with detailed description of the data: Based on frequent questions received by users we prepared a readme.txt file in which we aim to give as much information as possible regarding the signals and supporting variables in the database.

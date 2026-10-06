@@ -1,0 +1,24 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD026Lr_7	-54.0	-10.0	36.5	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Lr_7
+GD026Lr_8	-59.0	-10.0	37.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Lr_8
+GD026Lr_9	-64.0	-10.0	37.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Lr_9
+GD026Ls_2	-35.0	-26.0	32.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ls_2
+GD026Ls_6	-50.0	-26.0	32.0	n/a	L	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ls_6
+GD026Ls_7	-54.0	-26.0	32.0	n/a	L	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ls_7
+GD026Ls_8	-58.0	-25.0	32.0	n/a	L	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ls_8
+GD026Ls_9	-63.0	-25.0	32.0	n/a	L	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ls_9
+GD026Lm_1	-7.0	-25.0	69.0	n/a	L	28	Medial segment of precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD026Lm_1
+GD026Lm_2	-12.0	-25.0	69.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD026Lm_2
+GD026Lm_3	-16.0	-24.0	69.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD026Lm_3
+GD026Ln_1	-7.0	-39.0	59.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ln_1
+GD026Ln_2	-10.0	-40.0	58.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ln_2
+GD026Ln_3	-15.0	-40.0	57.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ln_3
+GD026Ln_8	-34.0	-41.0	54.0	n/a	L	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ln_8
+GD026Ln_9	-38.0	-42.0	53.0	n/a	L	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ln_9
+GD026Ln_10	-41.0	-43.0	53.0	n/a	L	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ln_10
+GD026Ln_11	-44.0	-42.0	53.0	n/a	L	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ln_11
+GD026Ln_12	-49.0	-42.5	52.0	n/a	L	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Ln_12
+GD026Lj_1	-4.0	-43.0	43.0	n/a	L	11	Precuneus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Lj_1
+GD026Lj_2	-7.0	-43.0	44.0	n/a	L	11	Precuneus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Lj_2
+GD026Lj_3	-11.0	-43.0	43.0	n/a	L	11	Precuneus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Lj_3
+GD026Lj_9	-33.0	-45.0	39.0	n/a	L	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD026Lj_9

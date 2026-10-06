@@ -1,0 +1,19 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	status	status_description
+NG098RG21	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG098RG26	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG098RG27	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NA098RP41	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NA098RP42	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NA098RP43	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NA098RP61	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NA098RP62	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NA098RP63	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NA098RP81	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NA098RP82	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NA098RP83	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NA098RU22	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NA098RU42	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NA098RU62	SEEG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG098RT21	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG098RT22	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG098RT23	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors

@@ -1,0 +1,16 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD002Rh1	2.0	0.0	39.0	n/a	R	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD002Rh1
+GD002Rh2	6.0	0.0	39.0	n/a	R	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD002Rh2
+GD002Rh3	10.0	0.0	39.0	n/a	R	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD002Rh3
+GD002Rh13	48.0	-1.0	36.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD002Rh13
+GD002Rh14	51.0	-1.0	36.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD002Rh14
+GD002Rh15	56.0	0.0	36.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD002Rh15
+GD002Rm1	2.0	12.0	55.0	n/a	R	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD002Rm1
+GD002Rt1	36.0	9.0	-6.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD002Rt1
+GD002Rt2	39.0	9.0	-6.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD002Rt2
+GD002Rt3	43.0	9.0	-6.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD002Rt3
+GD002Rt4	46.0	9.0	-6.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD002Rt4
+GD002Rt5	49.0	9.0	-6.0	n/a	R	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD002Rt5
+GD002Rt6	55.0	10.0	-6.0	n/a	R	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD002Rt6
+GD002Rb1	26.0	-22.0	-15.0	n/a	R	37	Hippocampus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD002Rb1
+GD002Rb2	30.0	-21.0	-15.0	n/a	R	37	Hippocampus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD002Rb2

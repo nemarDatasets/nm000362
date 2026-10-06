@@ -1,0 +1,11 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM057RSMA1	6.0	-6.0	50.0	n/a	R	18	Supplementary motor cortex	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM057RSMA1
+MM057RSMA2	8.0	-3.0	55.0	n/a	R	18	Supplementary motor cortex	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM057RSMA2
+MM057RSMA4	13.0	2.0	62.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM057RSMA4
+MM057RSMA5	15.0	6.0	67.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM057RSMA5
+MM057RMs2	33.0	-7.0	40.0	n/a	R	29	Precentral gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM057RMs2
+MM057RMs3	38.0	-7.0	42.0	n/a	R	29	Precentral gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM057RMs3
+MM057RMs4	43.0	-6.0	44.0	n/a	R	29	Precentral gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM057RMs4
+MM057RMs5	48.5	-6.0	45.0	n/a	R	29	Precentral gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM057RMs5
+MM057RL1	11.0	-60.0	-1.0	n/a	R	5	Lingual gyrus and occipital fusiform gyrus	Occipital	M	Montreal Neurological Institute homemade intracerebral electrodes	MM057RL1
+MM057RL2	15.0	-60.0	0.0	n/a	R	5	Lingual gyrus and occipital fusiform gyrus	Occipital	M	Montreal Neurological Institute homemade intracerebral electrodes	MM057RL2

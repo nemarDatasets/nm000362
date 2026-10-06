@@ -1,0 +1,6 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG091RF23	44.42923280423281	14.634920634920633	42.705026455026456	n/a	R	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG091RF23
+NG091RF24	46.52361751152074	11.373271889400925	31.69009216589862	n/a	R	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG091RF24
+NG091RF25	48.89668700959024	6.299912816041854	22.928509154315606	n/a	R	20	Central operculum	Frontal	G	Ad-Tech (subdural strips and grids)	NG091RF25
+NG091RO21	10.501989389920425	-65.71618037135278	4.978116710875334	n/a	R	5	Lingual gyrus and occipital fusiform gyrus	Occipital	G	Ad-Tech (subdural strips and grids)	NG091RO21
+NG091RO22	18.227564102564102	-65.88141025641025	-6.33653846153846	n/a	R	5	Lingual gyrus and occipital fusiform gyrus	Occipital	G	Ad-Tech (subdural strips and grids)	NG091RO22

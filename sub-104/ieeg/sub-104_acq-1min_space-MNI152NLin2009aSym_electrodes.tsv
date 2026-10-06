@@ -1,0 +1,5 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG104LP11	13.0	-35.76923076923077	85.53846153846153	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	G	Ad-Tech (subdural strips and grids)	NG104LP11
+NG104LP13	40.519999999999996	-28.979999999999997	78.26	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	G	Ad-Tech (subdural strips and grids)	NG104LP13
+NG104LP15	57.0	-22.230769230769234	57.96153846153847	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	G	Ad-Tech (subdural strips and grids)	NG104LP15
+NG104LP17	63.0	-19.269230769230766	34.03846153846154	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	G	Ad-Tech (subdural strips and grids)	NG104LP17

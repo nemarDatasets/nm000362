@@ -1,0 +1,7 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD046Lc_06	-43.0	-32.0	-3.0	n/a	L	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD046Lc_06
+GD046Lc_07	-46.0	-32.0	-1.0	n/a	L	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD046Lc_07
+GD046Lc_08	-50.0	-32.0	2.5	n/a	L	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD046Lc_08
+GD046Ld_01	-29.0	-47.0	-15.0	n/a	L	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD046Ld_01
+GD046Ld_02	-33.0	-47.0	-15.0	n/a	L	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD046Ld_02
+GD046Ld_03	-37.0	-47.0	-14.0	n/a	L	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD046Ld_03

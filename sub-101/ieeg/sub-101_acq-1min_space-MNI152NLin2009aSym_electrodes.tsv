@@ -1,0 +1,5 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG101RP22	33.04761904761904	-85.46428571428572	19.38095238095238	n/a	R	1	Superior and middle occipital gyri	Occipital	G	Ad-Tech (subdural strips and grids)	NG101RP22
+NG101RP23	37.53333333333333	-79.35	24.46666666666666	n/a	R	1	Superior and middle occipital gyri	Occipital	G	Ad-Tech (subdural strips and grids)	NG101RP23
+NA101RI121	8.950000000000003	-75.4	-1.4500000000000028	n/a	R	5	Lingual gyrus and occipital fusiform gyrus	Occipital	A	Ad-Tech (intracerebral depth electrodes)	NA101RI121
+NA101RI124	5.5	-77.33333333333333	30.083333333333336	n/a	R	3	Cuneus	Occipital	A	Ad-Tech (intracerebral depth electrodes)	NA101RI124

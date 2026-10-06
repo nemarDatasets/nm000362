@@ -1,0 +1,12 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD061RPs1	13.0	-54.0	16.0	n/a	R	11	Precuneus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD061RPs1
+MD061RPs2	12.5	-57.0	18.0	n/a	R	11	Precuneus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD061RPs2
+MD061RCSMg9	39.0	-48.0	40.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD061RCSMg9
+MD061RCSMg10	42.0	-49.0	41.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD061RCSMg10
+MD061RCSMg11	45.0	-50.5	42.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD061RCSMg11
+MD061RCSMg12	50.0	-53.0	44.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD061RCSMg12
+MD061RCAg6	26.0	-62.0	46.0	n/a	R	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD061RCAg6
+MD061RCAg7	29.0	-62.0	47.0	n/a	R	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD061RCAg7
+MD061RCAg8	33.0	-62.0	49.0	n/a	R	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD061RCAg8
+MD061RCAg9	37.0	-64.0	53.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD061RCAg9
+MD061RCAg10	42.0	-64.0	55.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD061RCAg10

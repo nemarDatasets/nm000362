@@ -1,0 +1,38 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG103LG11	11.38095238095238	57.46428571428571	43.88095238095238	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG11
+NG103LG12	14.464285714285715	47.71428571428571	49.464285714285715	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG12
+NG103LG13	18.0625	37.1875	54.625	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG13
+NG103LG14	20.479166666666664	28.52083333333333	59.125	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG14
+NG103LG15	22.02380952380952	19.26190476190476	64.03571428571429	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG15
+NG103LG16	23.52380952380952	8.15079365079366	69.23015873015873	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG16
+NG103LG17	25.45238095238095	-3.206349206349202	74.73015873015873	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG17
+NG103LG111	23.083333333333336	34.5	45.666666666666664	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG111
+NG103LG112	26.85	26.049999999999997	51.8	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG112
+NG103LG113	28.933333333333337	16.96666666666667	57.55	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG113
+NG103LG117	28.892857142857146	52.78571428571429	26.32142857142857	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG117
+NG103LG118	29.892857142857146	41.95238095238096	32.404761904761905	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG118
+NG103LG119	33.0	32.41666666666667	38.333333333333336	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG119
+NG103LG120	36.10714285714286	23.035714285714292	43.57142857142857	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG120
+NG103LG121	37.5	13.571428571428584	49.64285714285714	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG121
+NG103LG125	36.5	49.125	16.25	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG125
+NG103LG126	37.52083333333333	38.64583333333333	23.375	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG126
+NG103LG127	39.54761904761905	29.047619047619037	29.035714285714285	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG127
+NG103LG128	42.04761904761905	19.464285714285708	34.45238095238095	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG128
+NG103LG133	41.85	44.633333333333326	4.4666666666666615	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG133
+NG103LG134	42.5	34.5	12.0	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG134
+NG103LG135	44.0625	24.85416666666667	19.208333333333336	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG135
+NG103LG141	42.66666666666667	38.625	-6.5	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG141
+NG103LG142	45.75	28.875	1.25	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG142
+NG103LG143	48.964285714285715	19.964285714285708	8.714285714285715	n/a	L	22	Opercular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG143
+NG103LG144	52.026785714285715	10.589285714285708	15.026785714285715	n/a	L	22	Opercular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG144
+NG103LG145	55.0625	1.0416666666666714	22.145833333333336	n/a	L	29	Precentral gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG145
+NG103LG151	46.35714285714286	11.29220779220779	-1.3961038961038952	n/a	L	21	Frontal operculum	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG151
+NG103LG152	50.85714285714286	2.8973214285714306	5.754464285714285	n/a	L	20	Central operculum	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG152
+NG103LG153	54.75	-6.03125	12.71875	n/a	L	20	Central operculum	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LG153
+NG103LF15	42.25	60.3	-1.9500000000000028	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LF15
+NG103LF16	37.0	65.33333333333333	9.916666666666664	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG103LF16
+NG103LT11	43.66964285714286	10.401785714285708	-41.19642857142857	n/a	L	33	Temporal pole and planum polare	Temporal	G	Ad-Tech (subdural strips and grids)	NG103LT11
+NG103LT12	50.66964285714286	8.401785714285708	-36.69642857142857	n/a	L	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG103LT12
+NG103LT13	51.64285714285714	3.5	-27.857142857142858	n/a	L	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG103LT13
+NG103LT14	52.385714285714286	0.585714285714289	-17.985714285714288	n/a	L	30	Superior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG103LT14
+NG103LT15	53.85	-1.9500000000000028	-8.200000000000003	n/a	L	30	Superior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG103LT15

@@ -1,0 +1,8 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD067LOF11	-40.0	39.0	3.0	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD067LOF11
+MD067LOF12	-42.0	40.0	7.0	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD067LOF12
+MD067LOF13	-45.0	40.0	8.0	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD067LOF13
+MD067LCA8	-31.0	45.0	25.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD067LCA8
+MD067LCA9	-35.0	44.0	28.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD067LCA9
+MD067LCA10	-38.0	46.0	31.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD067LCA10
+MD067LCA11	-42.0	45.0	33.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD067LCA11

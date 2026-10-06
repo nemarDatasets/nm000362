@@ -1,0 +1,9 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD064LOF1	-6.0	34.0	-22.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD064LOF1
+MD064LOF2	-10.0	34.0	-21.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD064LOF2
+MD064LOF6	-26.0	33.0	-15.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD064LOF6
+MD064RCp1	8.0	-42.0	36.0	n/a	R	12	Posterior cingulate	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD064RCp1
+MD064RCp7	32.0	-41.0	41.0	n/a	R	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD064RCp7
+MD064RCp8	35.0	-40.0	42.0	n/a	R	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD064RCp8
+MD064RCp9	39.0	-40.0	43.0	n/a	R	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD064RCp9
+MD064RCp10	43.0	-39.0	43.5	n/a	R	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD064RCp10

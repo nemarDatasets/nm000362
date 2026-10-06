@@ -1,0 +1,5 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG092RP21	62.109601449275374	-59.958333333333336	8.143115942028984	n/a	R	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG092RP21
+NG092RP22	63.234601449275374	-53.354166666666664	20.413949275362313	n/a	R	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG092RP22
+NG092RP23	60.62916666666668	-46.02916666666666	29.979166666666664	n/a	R	9	Supramarginal gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG092RP23
+NG092RP24	57.025000000000006	-37.627380952380946	38.04761904761905	n/a	R	9	Supramarginal gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG092RP24

@@ -1,0 +1,38 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD020Rp12	46.0	-40.0	52.0	n/a	R	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rp12
+GD020Rp13	50.0	-40.0	51.0	n/a	R	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rp13
+GD020Rp14	55.0	-39.0	53.0	n/a	R	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rp14
+GD020Rg9	32.0	33.0	17.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rg9
+GD020Rg10	36.0	33.0	17.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rg10
+GD020Rg11	40.0	33.0	17.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rg11
+GD020Re1	0.0	46.0	29.0	n/a	R	27	Medial segment of superior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Re1
+GD020Re2	4.0	46.0	29.0	n/a	R	27	Medial segment of superior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Re2
+GD020Re5	16.0	47.0	31.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Re5
+GD020Rf1	0.0	25.0	48.0	n/a	R	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rf1
+GD020Rf2	3.0	26.0	48.0	n/a	R	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rf2
+GD020Rf3	7.0	25.0	48.0	n/a	R	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rf3
+GD020Rf4	11.0	26.0	48.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rf4
+GD020Rf5	15.0	26.0	49.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rf5
+GD020Rf6	21.0	25.0	48.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rf6
+GD020Rq2	30.0	10.0	8.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD020Rq2
+GD020Rq3	34.0	10.0	8.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD020Rq3
+GD020Rq4	38.0	9.0	8.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rq4
+GD020Rq5	42.0	10.0	9.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rq5
+GD020Rq6	45.0	8.0	9.0	n/a	R	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rq6
+GD020Rq7	50.0	10.0	9.0	n/a	R	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rq7
+GD020Rm1	2.0	5.0	53.0	n/a	R	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rm1
+GD020Rm6	21.0	4.0	52.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rm6
+GD020Rm7	25.0	3.0	53.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rm7
+GD020Rm8	29.0	2.0	52.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rm8
+GD020Rm9	34.0	2.0	53.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rm9
+GD020Rh1	3.0	-2.0	33.0	n/a	R	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rh1
+GD020Rh11	42.0	-2.0	35.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rh11
+GD020Rh12	47.0	-3.0	35.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rh12
+GD020Rh13	51.0	-2.0	36.5	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rh13
+GD020Rr1	35.0	0.0	17.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rr1
+GD020Rr2	39.0	0.0	19.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rr2
+GD020Rr3	45.0	-1.0	19.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rr3
+GD020Rr6	54.0	-1.5	20.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rr6
+GD020Rr7	59.0	-2.0	20.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rr7
+GD020Rv13	49.0	-37.0	31.0	n/a	R	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rv13
+GD020Rv14	54.0	-37.0	31.0	n/a	R	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD020Rv14

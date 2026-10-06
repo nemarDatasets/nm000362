@@ -1,0 +1,24 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	status	status_description
+NG109LT51	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109LT52	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109LT54	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109LT55	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG215	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG219	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG223	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG226	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG234	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG242	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG243	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG41	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG42	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG43	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG44	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG45	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG46	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG47	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG410	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG411	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG412	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG413	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors
+NG109RG414	ECOG	µV	n/a	80	200	bipolar	good	Channel in gray matter deemed to show normal activity by the source authors

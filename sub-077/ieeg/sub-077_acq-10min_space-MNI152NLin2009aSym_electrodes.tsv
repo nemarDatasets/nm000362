@@ -1,0 +1,16 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM077LA1	-27.0	-10.0	-14.0	n/a	L	38	Amygdala	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LA1
+MM077LA2	-32.0	-9.0	-17.0	n/a	L	37	Hippocampus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LA2
+MM077LA5	-47.0	-7.0	-22.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LA5
+MM077LA6	-53.0	-6.0	-22.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LA6
+MM077LA7	-57.0	-4.0	-24.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LA7
+MM077LH2	-28.0	-17.0	-13.0	n/a	L	37	Hippocampus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LH2
+MM077LH3	-33.0	-16.0	-15.0	n/a	L	37	Hippocampus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LH3
+MM077LH4	-39.0	-16.0	-16.0	n/a	L	37	Hippocampus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LH4
+MM077LH6	-49.5	-14.5	-16.5	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LH6
+MM077LH7	-56.0	-13.0	-19.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LH7
+MM077LHp1	-28.0	-28.0	-7.0	n/a	L	37	Hippocampus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LHp1
+MM077LHp2	-33.5	-29.5	-7.5	n/a	L	37	Hippocampus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LHp2
+MM077LHp5	-50.0	-35.0	-7.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LHp5
+MM077LHp6	-56.0	-36.0	-7.5	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LHp6
+MM077LHp7	-62.0	-38.0	-9.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM077LHp7

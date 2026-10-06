@@ -1,0 +1,5 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD055RPs8	26.0	-50.0	60.0	n/a	R	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD055RPs8
+MD055ROi5	34.0	-83.0	1.0	n/a	R	2	Inferior ocipital gyrus and occipital pole	Occipital	D	DIXI Medical (intracerebral depth electrodes)	MD055ROi5
+MD055ROi6	37.0	-82.0	1.0	n/a	R	2	Inferior ocipital gyrus and occipital pole	Occipital	D	DIXI Medical (intracerebral depth electrodes)	MD055ROi6
+MD055ROi7	41.0	-82.0	2.0	n/a	R	2	Inferior ocipital gyrus and occipital pole	Occipital	D	DIXI Medical (intracerebral depth electrodes)	MD055ROi7

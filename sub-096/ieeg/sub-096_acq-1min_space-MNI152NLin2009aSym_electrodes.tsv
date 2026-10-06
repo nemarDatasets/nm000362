@@ -1,0 +1,10 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NA096LU15	23.0	-38.975	35.45	n/a	L	7	Superior parietal lobule	Parietal	A	Ad-Tech (intracerebral depth electrodes)	NA096LU15
+NA096LU16	21.0	-47.0	43.0	n/a	L	7	Superior parietal lobule	Parietal	A	Ad-Tech (intracerebral depth electrodes)	NA096LU16
+NA096LU17	18.833333333333336	-55.0625	50.5	n/a	L	7	Superior parietal lobule	Parietal	A	Ad-Tech (intracerebral depth electrodes)	NA096LU17
+NA096LU18	16.602564102564102	-63.02403846153846	58.0	n/a	L	7	Superior parietal lobule	Parietal	A	Ad-Tech (intracerebral depth electrodes)	NA096LU18
+NA096LU19	15.06089743589743	-70.96153846153845	65.5	n/a	L	7	Superior parietal lobule	Parietal	A	Ad-Tech (intracerebral depth electrodes)	NA096LU19
+NA096LH16	35.71212121212121	-59.18614718614719	12.705627705627705	n/a	L	31	Middle temporal gyrus	Temporal	A	Ad-Tech (intracerebral depth electrodes)	NA096LH16
+NA096LH17	37.25714285714285	-68.10952380952381	18.280952380952385	n/a	L	1	Superior and middle occipital gyri	Occipital	A	Ad-Tech (intracerebral depth electrodes)	NA096LH17
+NA096LH18	38.25714285714285	-77.51428571428572	25.25714285714286	n/a	L	1	Superior and middle occipital gyri	Occipital	A	Ad-Tech (intracerebral depth electrodes)	NA096LH18
+NA096LH19	39.71153846153846	-86.42307692307692	32.03846153846154	n/a	L	1	Superior and middle occipital gyri	Occipital	A	Ad-Tech (intracerebral depth electrodes)	NA096LH19

@@ -1,0 +1,12 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG092RG226	43.5	31.565217391304344	-11.782608695652176	n/a	R	24	Orbital part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG092RG226
+NG092RG227	44.47619047619048	23.214285714285708	-7.0	n/a	R	21	Frontal operculum	Frontal	G	Ad-Tech (subdural strips and grids)	NG092RG227
+NG092RG228	43.97619047619048	12.189285714285703	-0.04999999999999716	n/a	R	21	Frontal operculum	Frontal	G	Ad-Tech (subdural strips and grids)	NG092RG228
+NG092RG242	42.33333333333334	40.45833333333334	17.145833333333336	n/a	R	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG092RG242
+NG092RG243	43.0763888888889	30.43518518518519	23.789351851851855	n/a	R	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG092RG243
+NG092RG244	43.74603174603175	22.08994708994709	30.304232804232804	n/a	R	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG092RG244
+NG092RG245	45.02380952380952	13.480519480519476	36.70238095238095	n/a	R	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG092RG245
+NG092RP21	62.109601449275374	-59.958333333333336	8.143115942028984	n/a	R	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG092RP21
+NG092RP22	63.234601449275374	-53.354166666666664	20.413949275362313	n/a	R	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG092RP22
+NG092RP23	60.62916666666668	-46.02916666666666	29.979166666666664	n/a	R	9	Supramarginal gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG092RP23
+NG092RP24	57.025000000000006	-37.627380952380946	38.04761904761905	n/a	R	9	Supramarginal gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG092RP24

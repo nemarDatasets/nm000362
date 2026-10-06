@@ -1,0 +1,23 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD025Lv_1	-1.0	-47.0	24.0	n/a	L	12	Posterior cingulate	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD025Lv_1
+GD025Lv_2	-5.0	-48.0	24.0	n/a	L	12	Posterior cingulate	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD025Lv_2
+GD025Lv_3	-9.0	-48.0	22.0	n/a	L	12	Posterior cingulate	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD025Lv_3
+GD025Lo_1	-1.0	38.0	-17.0	n/a	L	19	Medial frontal cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD025Lo_1
+GD025Lo_2	-4.0	37.0	-16.5	n/a	L	19	Medial frontal cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD025Lo_2
+GD025Lo_3	-8.0	38.0	-17.0	n/a	L	19	Medial frontal cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD025Lo_3
+GD025Lo_6	-18.0	36.0	-20.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD025Lo_6
+GD025Lo_7	-22.0	35.0	-20.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD025Lo_7
+GD025Lo_8	-28.0	35.0	-20.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD025Lo_8
+GD025Lp_2	-26.0	-53.5	-18.0	n/a	L	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD025Lp_2
+GD025Lp_3	-30.0	-53.0	-19.0	n/a	L	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD025Lp_3
+GD025Lp_4	-34.0	-54.0	-19.0	n/a	L	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD025Lp_4
+GD025Ld_1	-33.0	-53.0	-5.0	n/a	L	5	Lingual gyrus and occipital fusiform gyrus	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD025Ld_1
+GD025Ld_6	-50.0	-54.0	-5.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD025Ld_6
+GD025Ld_7	-54.0	-54.0	-6.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD025Ld_7
+GD025Ld_8	-59.0	-55.0	-6.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD025Ld_8
+GD025Ls_1	-35.0	-30.0	22.0	n/a	L	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD025Ls_1
+GD025Ls_2	-39.0	-29.0	22.0	n/a	L	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD025Ls_2
+GD025Ls_3	-42.0	-29.0	21.0	n/a	L	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD025Ls_3
+GD025Ls_4	-45.0	-29.0	21.0	n/a	L	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD025Ls_4
+GD025Ls_5	-48.0	-29.0	21.0	n/a	L	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD025Ls_5
+GD025Ls_6	-53.0	-29.0	21.0	n/a	L	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD025Ls_6

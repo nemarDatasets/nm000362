@@ -1,0 +1,8 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD023Rh12	41.0	0.0	34.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD023Rh12
+GD023Rh13	46.0	0.0	35.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD023Rh13
+GD023Rg12	42.0	34.0	22.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD023Rg12
+GD023Rg13	47.0	34.0	23.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD023Rg13
+GD023Rf9	31.0	46.0	15.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD023Rf9
+GD023Rz12	36.0	-35.0	43.0	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD023Rz12
+GD023Rz16	35.0	-43.0	55.0	n/a	R	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD023Rz16

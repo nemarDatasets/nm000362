@@ -1,0 +1,17 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM078LH3	-38.5	-11.5	-19.5	n/a	L	37	Hippocampus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LH3
+MM078LH5	-48.0	-12.0	-18.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LH5
+MM078LH6	-54.0	-12.0	-18.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LH6
+MM078LH7	-58.0	-12.0	-18.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LH7
+MM078LH8	-63.0	-12.0	-19.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LH8
+MM078LOF1	-6.0	31.0	-18.0	n/a	L	19	Medial frontal cortex	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LOF1
+MM078LOF2	-11.0	33.0	-17.0	n/a	L	19	Medial frontal cortex	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LOF2
+MM078LOF3	-14.5	33.5	-15.5	n/a	L	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LOF3
+MM078LCa2	-12.5	36.0	14.0	n/a	L	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LCa2
+MM078LCa6	-34.5	36.0	17.5	n/a	L	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LCa6
+MM078LCs2	-16.0	23.0	29.0	n/a	L	18	Supplementary motor cortex	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LCs2
+MM078LCs5	-32.0	27.0	32.0	n/a	L	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LCs5
+MM078LCs6	-36.5	28.0	33.5	n/a	L	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LCs6
+MM078LIp1	-31.5	-18.0	11.0	n/a	L	14	Posterior insula	Insula	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LIp1
+MM078LIp2	-32.0	-22.0	15.0	n/a	L	14	Posterior insula	Insula	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LIp2
+MM078LIp3	-31.0	-26.0	21.0	n/a	L	8	Parietal operculum	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM078LIp3

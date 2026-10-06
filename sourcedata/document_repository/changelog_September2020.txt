@@ -1,0 +1,3 @@
+2020:
+
+We replace the Data_N2 and Data_N3 variables in the Non-REM (20 min) dataset. The previous files had the same data for both stages by mistake.

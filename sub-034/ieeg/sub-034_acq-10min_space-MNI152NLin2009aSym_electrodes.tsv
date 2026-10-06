@@ -1,0 +1,27 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD034Lx_1	-34.0	11.0	-7.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD034Lx_1
+GD034Lx_2	-32.5	11.0	-3.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD034Lx_2
+GD034Lx_3	-34.0	11.0	1.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD034Lx_3
+GD034Lx_4	-32.0	11.0	4.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD034Lx_4
+GD034Lx_5	-31.0	11.0	8.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD034Lx_5
+GD034Lx_14	-22.0	11.0	46.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lx_14
+GD034Lq_1	-29.0	14.0	13.0	n/a	L	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lq_1
+GD034Lq_2	-33.0	14.0	13.0	n/a	L	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lq_2
+GD034Lq_3	-38.0	13.0	13.0	n/a	L	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lq_3
+GD034Lq_6	-48.0	15.0	13.0	n/a	L	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lq_6
+GD034Lq_7	-52.0	15.0	13.0	n/a	L	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lq_7
+GD034Lq_8	-58.0	15.0	13.0	n/a	L	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lq_8
+GD034Lr_1	-31.0	4.0	14.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lr_1
+GD034Lr_2	-35.0	5.0	14.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lr_2
+GD034Lr_3	-39.0	5.0	15.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lr_3
+GD034Lr_4	-43.0	5.0	15.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lr_4
+GD034Lr_5	-47.0	5.0	14.5	n/a	L	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lr_5
+GD034Lr_6	-50.0	5.0	13.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lr_6
+GD034Lr_7	-54.0	6.0	13.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lr_7
+GD034Lr_8	-60.0	6.0	13.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lr_8
+GD034Lu_1	-42.0	-30.0	6.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lu_1
+GD034Lu_2	-46.0	-30.0	6.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lu_2
+GD034Lu_3	-49.0	-30.0	7.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lu_3
+GD034Lu_4	-53.0	-30.0	7.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lu_4
+GD034Lu_5	-58.0	-30.0	7.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lu_5
+GD034Lu_6	-62.0	-30.0	6.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD034Lu_6

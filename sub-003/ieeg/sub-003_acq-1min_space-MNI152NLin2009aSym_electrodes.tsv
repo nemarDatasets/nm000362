@@ -1,0 +1,12 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD003Lt_4	-51.0	7.0	0.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD003Lt_4
+GD003Lt_5	-56.0	7.0	0.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD003Lt_5
+GD003Lt_6	-60.0	7.0	0.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD003Lt_6
+GD003Lu_1	-42.0	-23.0	10.0	n/a	L	34	Transverse temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD003Lu_1
+GD003Lf_1	-25.0	-50.0	-8.0	n/a	L	5	Lingual gyrus and occipital fusiform gyrus	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD003Lf_1
+GD003Lf_2	-28.0	-50.0	-8.0	n/a	L	5	Lingual gyrus and occipital fusiform gyrus	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD003Lf_2
+GD003Lf_3	-31.0	-51.0	-9.0	n/a	L	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD003Lf_3
+GD003Lf_4	-36.0	-51.0	-9.0	n/a	L	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD003Lf_4
+GD003Lf_5	-40.0	-52.0	-8.0	n/a	L	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD003Lf_5
+GD003Lf_6	-43.5	-53.0	-11.0	n/a	L	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD003Lf_6
+GD003Lf_10	-59.0	-54.0	-11.0	n/a	L	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD003Lf_10

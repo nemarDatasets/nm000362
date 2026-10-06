@@ -1,0 +1,19 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD010Rf1	23.0	-49.0	-15.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rf1
+GD010Rf2	27.0	-49.0	-14.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rf2
+GD010Rf3	31.0	-49.0	-14.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rf3
+GD010Rf4	35.0	-49.0	-14.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rf4
+GD010Rf5	39.0	-47.0	-15.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rf5
+GD010Ry7	35.0	10.0	14.0	n/a	R	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD010Ry7
+GD010Rs1	42.0	-24.0	22.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rs1
+GD010Rs2	46.0	-25.0	22.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rs2
+GD010Ro1	8.0	-67.0	-3.0	n/a	R	5	Lingual gyrus and occipital fusiform gyrus	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD010Ro1
+GD010Ro2	13.0	-66.0	-3.0	n/a	R	5	Lingual gyrus and occipital fusiform gyrus	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD010Ro2
+GD010Rp1	5.0	-59.0	24.0	n/a	R	11	Precuneus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rp1
+GD010Rp2	9.0	-58.0	25.0	n/a	R	11	Precuneus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rp2
+GD010Rp3	14.0	-58.0	25.0	n/a	R	11	Precuneus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rp3
+GD010Rp10	43.0	-59.0	22.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rp10
+GD010Rp11	47.0	-59.0	22.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rp11
+GD010Rp12	51.0	-59.0	21.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rp12
+GD010Rp13	55.0	-58.0	22.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rp13
+GD010Rp14	60.0	-58.0	24.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD010Rp14

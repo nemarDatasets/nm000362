@@ -1,0 +1,22 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM083RPC1	3.0	-48.0	55.0	n/a	R	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RPC1
+MM083RPC2	9.0	-50.0	57.0	n/a	R	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RPC2
+MM083RPC3	13.0	-51.0	58.0	n/a	R	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RPC3
+MM083RPC4	17.0	-54.0	60.0	n/a	R	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RPC4
+MM083RPC5	23.0	-56.0	62.0	n/a	R	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RPC5
+MM083RPC6	28.0	-58.0	63.0	n/a	R	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RPC6
+MM083RPC7	33.0	-60.5	65.0	n/a	R	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RPC7
+MM083RCp1	11.0	-37.0	39.0	n/a	R	12	Posterior cingulate	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RCp1
+MM083RCp2	16.0	-37.0	40.5	n/a	R	12	Posterior cingulate	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RCp2
+MM083RCp3	22.0	-38.0	40.0	n/a	R	12	Posterior cingulate	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RCp3
+MM083RCp5	33.0	-40.0	40.0	n/a	R	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RCp5
+MM083RCp6	38.0	-41.0	42.0	n/a	R	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RCp6
+MM083RCp7	43.0	-40.0	43.0	n/a	R	9	Supramarginal gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083RCp7
+MM083ROs1	13.0	-75.0	24.0	n/a	R	3	Cuneus	Occipital	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083ROs1
+MM083ROs2	18.0	-76.0	24.0	n/a	R	3	Cuneus	Occipital	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083ROs2
+MM083ROs3	24.0	-76.0	26.0	n/a	R	3	Cuneus	Occipital	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083ROs3
+MM083ROs4	28.0	-76.0	25.0	n/a	R	1	Superior and middle occipital gyri	Occipital	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083ROs4
+MM083ROi1	10.5	-74.0	5.5	n/a	R	5	Lingual gyrus and occipital fusiform gyrus	Occipital	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083ROi1
+MM083ROi2	16.0	-74.0	7.0	n/a	R	4	Calcarine cortex	Occipital	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083ROi2
+MM083ROi6	36.0	-76.0	5.0	n/a	R	2	Inferior ocipital gyrus and occipital pole	Occipital	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083ROi6
+MM083ROi7	41.0	-75.0	6.0	n/a	R	2	Inferior ocipital gyrus and occipital pole	Occipital	M	Montreal Neurological Institute homemade intracerebral electrodes	MM083ROi7

@@ -1,0 +1,11 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD089LA5	-38.0	-2.5	-24.0	n/a	L	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD089LA5
+MD089LA6	-40.0	-2.0	-25.0	n/a	L	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD089LA6
+MD089LA7	-44.0	-2.0	-26.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD089LA7
+MD089LA8	-48.0	-1.0	-27.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD089LA8
+MD089LH7	-51.0	-14.0	-17.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD089LH7
+MD089LHp8	-44.0	-47.0	4.5	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD089LHp8
+MD089LHp9	-46.0	-50.0	7.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD089LHp9
+MD089RH5	44.0	-21.0	-22.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD089RH5
+MD089RHp8	43.0	-58.0	-3.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD089RHp8
+MD089RHp9	44.0	-61.0	-1.0	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD089RHp9

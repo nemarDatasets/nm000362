@@ -1,0 +1,19 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG098RG21	59.0	22.25	22.0	n/a	R	22	Opercular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG098RG21
+NG098RG26	67.47222222222223	-32.72222222222222	19.305555555555557	n/a	R	30	Superior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG098RG26
+NG098RG27	68.5	-44.5	19.0	n/a	R	30	Superior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG098RG27
+NA098RP41	2.25	-8.25	47.0	n/a	R	18	Supplementary motor cortex	Frontal	A	Ad-Tech (intracerebral depth electrodes)	NA098RP41
+NA098RP42	3.0	-13.5	58.0	n/a	R	28	Medial segment of precentral gyrus	Frontal	A	Ad-Tech (intracerebral depth electrodes)	NA098RP42
+NA098RP43	3.5	-16.5	69.0	n/a	R	28	Medial segment of precentral gyrus	Frontal	A	Ad-Tech (intracerebral depth electrodes)	NA098RP43
+NA098RP61	2.0	-25.75	52.5	n/a	R	28	Medial segment of precentral gyrus	Frontal	A	Ad-Tech (intracerebral depth electrodes)	NA098RP61
+NA098RP62	2.0	-26.25	61.25	n/a	R	28	Medial segment of precentral gyrus	Frontal	A	Ad-Tech (intracerebral depth electrodes)	NA098RP62
+NA098RP63	4.0	-26.75	71.25	n/a	R	28	Medial segment of precentral gyrus	Frontal	A	Ad-Tech (intracerebral depth electrodes)	NA098RP63
+NA098RP81	2.0	-34.75	56.25	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	A	Ad-Tech (intracerebral depth electrodes)	NA098RP81
+NA098RP82	3.75	-36.75	66.75	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	A	Ad-Tech (intracerebral depth electrodes)	NA098RP82
+NA098RP83	5.527777777777779	-39.22222222222222	76.30555555555556	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	A	Ad-Tech (intracerebral depth electrodes)	NA098RP83
+NA098RU22	38.5	-9.25	9.416666666666664	n/a	R	14	Posterior insula	Insula	A	Ad-Tech (intracerebral depth electrodes)	NA098RU22
+NA098RU42	38.5	-11.0	11.0	n/a	R	14	Posterior insula	Insula	A	Ad-Tech (intracerebral depth electrodes)	NA098RU42
+NA098RU62	35.5	-4.75	10.0	n/a	R	13	Anterior insula	Insula	A	Ad-Tech (intracerebral depth electrodes)	NA098RU62
+NG098RT21	57.3	7.0	-27.15	n/a	R	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG098RT21
+NG098RT22	61.5	0.0	-19.75	n/a	R	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG098RT22
+NG098RT23	66.3	-7.5	-12.899999999999999	n/a	R	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG098RT23

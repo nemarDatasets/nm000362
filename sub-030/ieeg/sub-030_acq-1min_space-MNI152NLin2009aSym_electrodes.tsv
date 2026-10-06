@@ -1,0 +1,38 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD030Rv1	6.0	-43.0	27.0	n/a	R	12	Posterior cingulate	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rv1
+GD030Rv2	10.0	-44.0	28.0	n/a	R	12	Posterior cingulate	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rv2
+GD030Rv3	16.0	-44.0	28.0	n/a	R	12	Posterior cingulate	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rv3
+GD030Rv12	55.0	-42.0	26.0	n/a	R	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rv12
+GD030Rv13	59.0	-42.0	26.0	n/a	R	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rv13
+GD030Rv14	63.0	-42.0	26.0	n/a	R	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rv14
+GD030Rv15	66.0	-41.0	26.0	n/a	R	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rv15
+GD030Rv16	69.0	-41.0	25.0	n/a	R	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rv16
+GD030Re4	39.0	-18.0	-24.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Re4
+GD030Re7	48.0	-17.0	-26.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Re7
+GD030Re10	59.0	-17.0	-26.0	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Re10
+GD030Rf1	24.0	-47.0	-12.0	n/a	R	5	Lingual gyrus and occipital fusiform gyrus	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD030Rf1
+GD030Rf2	30.0	-46.0	-13.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rf2
+GD030Rf8	52.0	-44.5	-14.5	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rf8
+GD030Rf9	55.0	-44.0	-14.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rf9
+GD030Rf10	59.0	-44.0	-14.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rf10
+GD030Rf11	63.0	-44.0	-14.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rf11
+GD030Rd7	64.0	-42.0	7.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rd7
+GD030Rd8	68.0	-41.0	8.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rd8
+GD030Rt4	56.0	-5.0	-10.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rt4
+GD030Rt5	60.0	-5.0	-9.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rt5
+GD030Rt6	65.0	-5.0	-9.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rt6
+GD030Ru7	62.0	-21.0	2.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Ru7
+GD030Ru8	65.0	-21.0	2.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Ru8
+GD030Ru9	69.0	-22.0	2.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD030Ru9
+GD030Ry7	39.0	-13.0	2.0	n/a	R	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD030Ry7
+GD030Ry8	38.0	-14.0	6.0	n/a	R	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD030Ry8
+GD030Ry9	38.0	-17.0	10.0	n/a	R	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD030Ry9
+GD030Ry10	39.0	-20.0	15.0	n/a	R	8	Parietal operculum	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD030Ry10
+GD030Rx5	32.0	15.0	1.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD030Rx5
+GD030Rx6	31.0	16.0	5.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD030Rx6
+GD030Rx12	27.0	25.0	27.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD030Rx12
+GD030Ro1	4.0	32.0	-16.5	n/a	R	16	Anterior cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD030Ro1
+GD030Ro2	8.0	33.0	-17.0	n/a	R	16	Anterior cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD030Ro2
+GD030Ro5	20.0	32.0	-19.0	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD030Ro5
+GD030Ro9	38.0	31.0	-17.0	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD030Ro9
+GD030Ro10	42.0	32.0	-17.0	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD030Ro10

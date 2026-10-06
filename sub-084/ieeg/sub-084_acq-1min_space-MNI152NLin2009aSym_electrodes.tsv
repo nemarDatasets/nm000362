@@ -1,0 +1,24 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD084LOF1	-12.0	33.0	-23.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD084LOF1
+MD084LOF2	-16.0	33.0	-21.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD084LOF2
+MD084LOF3	-19.0	33.0	-20.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD084LOF3
+MD084LOF4	-22.5	34.0	-18.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD084LOF4
+MD084LOF5	-26.0	34.0	-17.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD084LOF5
+MD084LOF6	-30.0	34.0	-15.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD084LOF6
+MD084LOF7	-32.0	35.0	-13.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD084LOF7
+MD084LOF8	-36.0	35.0	-11.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD084LOF8
+MD084LOF9	-39.0	36.0	-10.0	n/a	L	24	Orbital part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD084LOF9
+MD084LIp2	-50.0	-36.0	9.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD084LIp2
+MD084LIp3	-54.0	-36.0	9.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD084LIp3
+MD084LIp4	-58.0	-36.0	9.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD084LIp4
+MD084LIp5	-61.0	-35.0	10.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD084LIp5
+MD084LIp6	-66.0	-34.0	9.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD084LIp6
+MD084LIp7	-70.0	-34.0	9.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD084LIp7
+MD084ROF1	6.0	34.0	-18.0	n/a	R	19	Medial frontal cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD084ROF1
+MD084ROF2	8.0	34.0	-16.0	n/a	R	19	Medial frontal cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD084ROF2
+MD084ROF3	11.0	34.0	-15.0	n/a	R	19	Medial frontal cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD084ROF3
+MD084RIp1	46.0	-38.0	15.0	n/a	R	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD084RIp1
+MD084RIp4	58.0	-39.0	15.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD084RIp4
+MD084RIp5	62.0	-38.0	14.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD084RIp5
+MD084RIp6	64.0	-38.0	14.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD084RIp6
+MD084RIp7	68.0	-37.0	13.0	n/a	R	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD084RIp7

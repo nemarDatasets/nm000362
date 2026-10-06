@@ -1,0 +1,6 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD022Rg11	44.0	18.0	21.0	n/a	R	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD022Rg11
+GD022Rg12	48.0	18.0	21.0	n/a	R	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD022Rg12
+GD022Lf_9	-29.0	42.0	26.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD022Lf_9
+GD022Lz_13	-30.0	37.0	18.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD022Lz_13
+GD022Lz_14	-28.0	38.0	22.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD022Lz_14

@@ -1,0 +1,9 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG093RF121	69.42307692307692	-23.11538461538462	3.96153846153846	n/a	R	30	Superior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG093RF121
+NG093RF123	65.25529411764705	-10.194705882352942	19.302352941176473	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	G	Ad-Tech (subdural strips and grids)	NG093RF123
+NG093RF124	63.519999999999996	-3.740000000000002	27.620000000000005	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	G	Ad-Tech (subdural strips and grids)	NG093RF124
+NG093RF125	60.0	0.9834782608695605	35.80869565217392	n/a	R	29	Precentral gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG093RF125
+NG093RF141	28.479166666666664	-53.69711538461539	75.91666666666667	n/a	R	7	Superior parietal lobule	Parietal	G	Ad-Tech (subdural strips and grids)	NG093RF141
+NG093RF142	27.233333333333334	-40.851282051282055	76.81666666666666	n/a	R	7	Superior parietal lobule	Parietal	G	Ad-Tech (subdural strips and grids)	NG093RF142
+NG093RF143	24.7125	-28.77916666666667	76.23333333333333	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	G	Ad-Tech (subdural strips and grids)	NG093RF143
+NG093RF144	21.979166666666664	-19.105978260869563	75.55797101449276	n/a	R	29	Precentral gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG093RF144

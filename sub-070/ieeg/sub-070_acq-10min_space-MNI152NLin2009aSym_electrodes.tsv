@@ -1,0 +1,8 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM070LCp7	-47.0	-43.0	22.5	n/a	L	9	Supramarginal gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM070LCp7
+MM070LCp8	-53.0	-42.0	22.0	n/a	L	9	Supramarginal gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM070LCp8
+MM070LL1	-18.0	-60.0	1.0	n/a	L	5	Lingual gyrus and occipital fusiform gyrus	Occipital	M	Montreal Neurological Institute homemade intracerebral electrodes	MM070LL1
+MM070LL2	-24.0	-60.0	1.0	n/a	L	5	Lingual gyrus and occipital fusiform gyrus	Occipital	M	Montreal Neurological Institute homemade intracerebral electrodes	MM070LL2
+MM070LL5	-40.0	-62.0	0.0	n/a	L	32	Inferior temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM070LL5
+MM070LL6	-44.5	-62.5	-2.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM070LL6
+MM070LL7	-49.0	-62.0	-2.5	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM070LL7

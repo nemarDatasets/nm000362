@@ -1,0 +1,8 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG102LG119	51.5	40.5	20.25	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG102LG119
+NG102LG120	52.0	32.5	27.75	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG102LG120
+NG102LG121	52.75	23.83333333333333	34.25	n/a	L	25	Middle frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG102LG121
+NG102LG130	58.964285714285715	7.80952380952381	30.761904761904766	n/a	L	29	Precentral gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG102LG130
+NG102LG135	55.0	24.58333333333333	0.75	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	G	Ad-Tech (subdural strips and grids)	NG102LG135
+NG102LF11	33.333333333333336	51.75	-14.000000000000004	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	G	Ad-Tech (subdural strips and grids)	NG102LF11
+NG102LF12	42.0	48.83333333333334	-13.333333333333332	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	G	Ad-Tech (subdural strips and grids)	NG102LF12

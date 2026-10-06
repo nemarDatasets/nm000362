@@ -1,0 +1,15 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD013Lr_12	-47.0	-3.0	41.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD013Lr_12
+GD013Lr_13	-52.0	-2.0	43.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD013Lr_13
+GD013Lr_14	-58.0	-2.0	43.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD013Lr_14
+GD013Lz_1	-5.0	9.0	50.0	n/a	L	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD013Lz_1
+GD013Lz_2	-8.0	11.0	53.0	n/a	L	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD013Lz_2
+GD013Lz_3	-10.0	13.0	56.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD013Lz_3
+GD013Lz_4	-12.0	14.0	59.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD013Lz_4
+GD013Lz_5	-16.0	15.5	63.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD013Lz_5
+GD013Lp_1	-6.0	-47.0	54.0	n/a	L	11	Precuneus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD013Lp_1
+GD013Lp_2	-11.0	-48.0	54.0	n/a	L	11	Precuneus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD013Lp_2
+GD013Lp_6	-27.0	-49.0	53.0	n/a	L	7	Superior parietal lobule	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD013Lp_6
+GD013Lu_2	-36.0	-6.0	-3.0	n/a	L	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD013Lu_2
+GD013Lu_3	-40.0	-6.0	-3.0	n/a	L	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD013Lu_3
+GD013Lu_8	-59.0	-9.0	-2.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD013Lu_8

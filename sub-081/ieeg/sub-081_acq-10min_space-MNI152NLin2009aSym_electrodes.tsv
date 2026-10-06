@@ -1,0 +1,21 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD081LOF1	-10.0	27.0	-14.0	n/a	L	16	Anterior cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD081LOF1
+MD081LCa1	-15.0	42.0	7.0	n/a	L	16	Anterior cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD081LCa1
+MD081LCa2	-18.0	42.0	10.0	n/a	L	16	Anterior cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD081LCa2
+MD081LCa7	-37.0	44.5	10.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD081LCa7
+MD081LCa8	-40.0	44.0	10.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD081LCa8
+MD081LCa9	-44.0	45.0	10.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD081LCa9
+MD081LCa10	-47.0	46.0	11.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD081LCa10
+MD081LCp1	-11.0	-42.0	23.0	n/a	L	12	Posterior cingulate	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD081LCp1
+MD081LCp11	-45.0	-46.0	25.0	n/a	L	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD081LCp11
+MD081LCp12	-48.0	-46.0	26.0	n/a	L	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD081LCp12
+MD081LCp13	-51.0	-46.0	27.0	n/a	L	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD081LCp13
+MD081LI6	-38.0	21.0	7.0	n/a	L	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD081LI6
+MD081LI7	-38.0	23.0	12.0	n/a	L	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD081LI7
+MD081LFus1	-38.0	-45.0	-17.0	n/a	L	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD081LFus1
+MD081LFus2	-42.0	-45.5	-17.0	n/a	L	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD081LFus2
+MD081LFus3	-45.0	-46.0	-16.0	n/a	L	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD081LFus3
+MD081LFus4	-49.0	-46.0	-16.0	n/a	L	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD081LFus4
+MD081LFus5	-52.0	-47.0	-17.0	n/a	L	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD081LFus5
+MD081LFus6	-56.0	-47.5	-16.0	n/a	L	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD081LFus6
+MD081LFus7	-59.0	-48.0	-16.0	n/a	L	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD081LFus7

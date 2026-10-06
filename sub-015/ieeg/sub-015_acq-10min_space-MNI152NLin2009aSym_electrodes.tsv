@@ -1,0 +1,7 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD015Lr_7	-60.0	-6.0	17.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD015Lr_7
+GD015Lr_8	-64.0	-5.0	17.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD015Lr_8
+GD015Lr_9	-69.0	-7.0	16.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD015Lr_9
+GD015Ls_7	-60.0	-17.0	22.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD015Ls_7
+GD015Ls_8	-63.0	-17.0	22.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD015Ls_8
+GD015Ls_9	-68.0	-17.0	23.0	n/a	L	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD015Ls_9

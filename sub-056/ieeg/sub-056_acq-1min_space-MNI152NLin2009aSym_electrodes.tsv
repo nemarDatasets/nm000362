@@ -1,0 +1,24 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM056LOF1	-4.0	36.0	-9.0	n/a	L	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056LOF1
+MM056LOF2	-9.0	37.0	-11.0	n/a	L	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056LOF2
+MM056LCa1	-7.0	35.0	19.0	n/a	L	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056LCa1
+MM056LCm1	-6.0	8.0	27.0	n/a	L	17	Middle cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056LCm1
+MM056LCm2	-11.0	9.0	30.0	n/a	L	17	Middle cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056LCm2
+MM056LCm7	-38.0	15.0	34.0	n/a	L	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056LCm7
+MM056LSMAa5	-20.0	14.0	56.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056LSMAa5
+MM056LSMAa6	-24.0	15.0	59.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056LSMAa6
+MM056LSMAa7	-28.5	17.0	62.5	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056LSMAa7
+MM056LH2	-25.0	-24.0	-12.0	n/a	L	37	Hippocampus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056LH2
+MM056ROF1	7.0	32.0	-17.0	n/a	R	19	Medial frontal cortex	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056ROF1
+MM056ROF2	11.0	31.0	-16.0	n/a	R	19	Medial frontal cortex	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056ROF2
+MM056ROF3	18.0	30.0	-13.0	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056ROF3
+MM056ROF4	23.0	30.0	-13.0	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056ROF4
+MM056ROF5	30.0	30.0	-12.0	n/a	R	24	Orbital part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056ROF5
+MM056ROF6	34.5	30.0	-9.0	n/a	R	24	Orbital part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056ROF6
+MM056ROF7	39.0	31.0	-7.0	n/a	R	24	Orbital part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056ROF7
+MM056RCa1	7.0	34.0	18.0	n/a	R	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056RCa1
+MM056RCa2	12.0	33.0	19.0	n/a	R	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056RCa2
+MM056RCa6	33.5	33.0	21.0	n/a	R	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056RCa6
+MM056RCa7	39.0	33.0	21.0	n/a	R	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056RCa7
+MM056RIi2	40.0	-6.0	-7.0	n/a	R	14	Posterior insula	Insula	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056RIi2
+MM056RH1	40.0	-27.0	-17.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM056RH1

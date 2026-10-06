@@ -1,0 +1,10 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD016Rj1	4.0	-23.0	58.0	n/a	R	28	Medial segment of precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD016Rj1
+GD016Rj12	49.0	-21.0	61.0	n/a	R	6	Postcentral gyrus (including medial segment)	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD016Rj12
+GD016Rb1	3.0	-8.0	62.0	n/a	R	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD016Rb1
+GD016Rb4	13.0	-8.0	63.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD016Rb4
+GD016Rb5	18.0	-7.0	63.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD016Rb5
+GD016Rb6	22.0	-7.0	63.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD016Rb6
+GD016Rb7	27.0	-8.0	62.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD016Rb7
+GD016Rb10	38.0	-9.0	62.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD016Rb10
+GD016Rb11	43.0	-8.0	63.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD016Rb11

@@ -1,0 +1,28 @@
+{
+  "participant_id": {
+    "Description": "sub-<3-digit source patient number>; the source numbers patients 1-110 (no suitable channels for 51, 86, 95, 105)."
+  },
+  "source_patient_id": {
+    "Description": "Patient number exactly as in the source (Patient variable / PatientInformation.csv ID)."
+  },
+  "sex": {
+    "Description": "Source PatientInformation.csv Gender column",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  },
+  "age": {
+    "Description": "Age at time of study (source PatientInformation.csv)",
+    "Units": "year"
+  },
+  "site_code": {
+    "Description": "First character of the source channel names (recording-centre code; power line 50 Hz for G, 60 Hz for M and N per source readme). The source does not name the centres."
+  },
+  "in_1min_atlas": {
+    "Description": "Has acq-1min recordings (MatlabFile.mat)"
+  },
+  "in_10min_nrem": {
+    "Description": "Has acq-10min recordings (NREM-sleep-20min.mat)"
+  }
+}

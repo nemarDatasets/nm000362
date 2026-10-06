@@ -1,0 +1,20 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD053RCa1	9.0	35.0	18.0	n/a	R	16	Anterior cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD053RCa1
+MD053RCa2	13.0	35.0	19.0	n/a	R	16	Anterior cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD053RCa2
+MD053RCa8	35.0	42.0	31.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD053RCa8
+MD053RCa9	40.0	43.0	33.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD053RCa9
+MD053RCp1	10.0	20.0	30.5	n/a	R	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD053RCp1
+MD053RCp8	37.0	25.0	45.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD053RCp8
+MD053RCp9	41.0	26.0	47.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD053RCp9
+MD053RCp10	44.0	28.0	49.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD053RCp10
+MD053RSMAa1	8.0	35.0	31.0	n/a	R	27	Medial segment of superior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD053RSMAa1
+MD053RSMAa2	9.0	35.0	35.0	n/a	R	27	Medial segment of superior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD053RSMAa2
+MD053RSMAa5	13.0	39.0	48.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD053RSMAa5
+MD053RSMAa6	15.0	41.0	54.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD053RSMAa6
+MD053RA1	19.0	-4.0	-25.0	n/a	R	37	Hippocampus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD053RA1
+MD053RA2	23.0	-3.0	-26.0	n/a	R	38	Amygdala	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD053RA2
+MD053RA3	26.0	-2.0	-26.0	n/a	R	38	Amygdala	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD053RA3
+MD053RA4	30.0	-2.0	-27.0	n/a	R	38	Amygdala	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD053RA4
+MD053RH1	27.0	-14.0	-22.0	n/a	R	37	Hippocampus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD053RH1
+MD053RH2	31.0	-14.0	-22.0	n/a	R	37	Hippocampus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD053RH2
+MD053RH3	34.0	-13.0	-22.0	n/a	R	37	Hippocampus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD053RH3

@@ -1,0 +1,15 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD069LOF7	-28.0	29.0	-5.5	n/a	L	24	Orbital part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD069LOF7
+MD069LOF8	-31.0	30.0	-3.0	n/a	L	24	Orbital part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD069LOF8
+MD069LOF9	-35.0	31.0	-1.0	n/a	L	24	Orbital part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD069LOF9
+MD069LCa9	-30.0	35.0	24.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD069LCa9
+MD069LCm1	-9.0	22.0	25.0	n/a	L	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD069LCm1
+MD069LCm2	-12.0	20.0	28.0	n/a	L	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD069LCm2
+MD069LCm3	-16.0	21.0	30.0	n/a	L	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD069LCm3
+MD069LH7	-51.0	-21.0	-17.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD069LH7
+MD069RH3	39.0	-16.0	-25.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD069RH3
+MD069RH4	45.0	-15.0	-25.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD069RH4
+MD069RH5	50.0	-15.0	-25.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD069RH5
+MD069RH6	55.0	-15.0	-26.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD069RH6
+MD069RH7	61.0	-16.0	-26.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD069RH7
+MD069RH8	67.0	-15.0	-28.0	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD069RH8

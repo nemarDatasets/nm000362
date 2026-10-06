@@ -1,0 +1,4 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD035Ri5	44.0	16.0	-38.0	n/a	R	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD035Ri5
+GD035Lq_5	-45.0	4.0	13.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD035Lq_5
+GD035Lq_8	-57.0	3.0	12.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD035Lq_8

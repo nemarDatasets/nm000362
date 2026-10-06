@@ -1,0 +1,23 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM059LH1	-31.0	-35.0	-2.0	n/a	L	37	Hippocampus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LH1
+MM059LH3	-42.0	-35.0	-3.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LH3
+MM059LH4	-47.0	-35.0	-4.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LH4
+MM059LH5	-52.0	-35.0	-2.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LH5
+MM059LH6	-58.0	-35.0	-3.5	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LH6
+MM059LH7	-63.0	-35.0	-4.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LH7
+MM059LH8	-69.0	-35.0	-6.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LH8
+MM059LCi1	-10.0	-48.0	25.0	n/a	L	12	Posterior cingulate	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LCi1
+MM059LCi7	-43.0	-48.0	23.0	n/a	L	9	Supramarginal gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LCi7
+MM059LCi8	-49.0	-46.0	22.0	n/a	L	9	Supramarginal gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LCi8
+MM059LPC1	-8.0	-50.5	45.0	n/a	L	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LPC1
+MM059LPC2	-13.0	-50.0	45.0	n/a	L	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LPC2
+MM059LPC4	-24.0	-51.0	47.0	n/a	L	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LPC4
+MM059LPC5	-28.0	-52.0	49.0	n/a	L	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LPC5
+MM059LPC6	-33.0	-52.0	48.0	n/a	L	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LPC6
+MM059LPC7	-39.0	-52.0	49.0	n/a	L	10	Angular gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LPC7
+MM059LPC8	-44.0	-52.0	50.0	n/a	L	10	Angular gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LPC8
+MM059LOs4	-23.0	-69.0	30.0	n/a	L	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LOs4
+MM059LOs5	-27.0	-70.0	31.0	n/a	L	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LOs5
+MM059LOs6	-33.0	-69.0	32.0	n/a	L	10	Angular gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LOs6
+MM059LOs7	-37.0	-69.0	33.0	n/a	L	10	Angular gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LOs7
+MM059LOs8	-42.0	-68.0	33.0	n/a	L	10	Angular gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM059LOs8

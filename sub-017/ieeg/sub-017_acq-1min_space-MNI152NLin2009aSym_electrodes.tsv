@@ -1,0 +1,15 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD017Rf1	26.0	-41.0	-20.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD017Rf1
+GD017Rf2	30.0	-41.0	-20.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD017Rf2
+GD017Rf3	34.0	-41.0	-20.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD017Rf3
+GD017Rf6	45.0	-42.0	-20.0	n/a	R	36	Fusiform and parahippocampal gyri	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD017Rf6
+GD017Rf7	49.0	-42.0	-21.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD017Rf7
+GD017Rf8	55.0	-41.0	-21.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD017Rf8
+GD017Rf9	59.0	-41.0	-21.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD017Rf9
+GD017Rf10	63.0	-39.0	-21.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD017Rf10
+GD017Rf11	68.0	-40.0	-22.0	n/a	R	32	Inferior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD017Rf11
+GD017Lt_1	-37.0	-2.0	-4.0	n/a	L	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD017Lt_1
+GD017Lt_2	-40.0	-2.0	-4.0	n/a	L	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD017Lt_2
+GD017Lt_3	-43.0	-2.0	-4.0	n/a	L	14	Posterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD017Lt_3
+GD017Lt_4	-48.0	-3.0	-3.0	n/a	L	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD017Lt_4
+GD017Lt_7	-60.0	-5.0	-1.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD017Lt_7

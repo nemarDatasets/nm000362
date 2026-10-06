@@ -1,0 +1,4 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD021Lq_01	-39.0	11.0	5.0	n/a	L	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD021Lq_01
+GD021Lq_02	-43.0	11.0	6.0	n/a	L	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD021Lq_02
+GD021Lq_03	-46.0	10.0	7.0	n/a	L	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD021Lq_03

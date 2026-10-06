@@ -1,0 +1,27 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+NG108LG145	37.0	-81.0	42.5	n/a	L	1	Superior and middle occipital gyri	Occipital	G	Ad-Tech (subdural strips and grids)	NG108LG145
+NG108LG146	36.361111111111114	-72.61111111111111	53.09722222222223	n/a	L	1	Superior and middle occipital gyri	Occipital	G	Ad-Tech (subdural strips and grids)	NG108LG146
+NG108LG153	21.25	-86.75	47.5	n/a	L	1	Superior and middle occipital gyri	Occipital	G	Ad-Tech (subdural strips and grids)	NG108LG153
+NG108LG154	22.25	-79.5	57.25	n/a	L	7	Superior parietal lobule	Parietal	G	Ad-Tech (subdural strips and grids)	NG108LG154
+NG108LG315	54.29166666666667	-48.375	39.0	n/a	L	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG108LG315
+NG108LG514	59.477777777777774	-52.388888888888886	16.91111111111111	n/a	L	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG108LG514
+NG108LG515	56.95	-62.0	17.924999999999997	n/a	L	10	Angular gyrus	Parietal	G	Ad-Tech (subdural strips and grids)	NG108LG515
+NG108LG520	64.32857142857142	-33.25	2.585714285714282	n/a	L	30	Superior temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG108LG520
+NG108LG523	59.14285714285714	-59.285714285714285	5.178571428571431	n/a	L	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG108LG523
+NG108LG526	65.82142857142857	-16.1	-11.085714285714282	n/a	L	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG108LG526
+NG108LG527	66.22142857142856	-25.15	-10.035714285714285	n/a	L	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG108LG527
+NG108LG528	66.9	-33.65	-9.0	n/a	L	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG108LG528
+NG108LG529	66.1	-41.65	-8.5	n/a	L	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG108LG529
+NG108LG530	63.68333333333334	-49.81666666666666	-8.0	n/a	L	31	Middle temporal gyrus	Temporal	G	Ad-Tech (subdural strips and grids)	NG108LG530
+NG108LG918	1.6666666666666643	-84.94444444444444	28.47222222222222	n/a	L	3	Cuneus	Occipital	G	Ad-Tech (subdural strips and grids)	NG108LG918
+NG108LG919	3.6666666666666643	-80.94444444444444	43.97222222222222	n/a	L	3	Cuneus	Occipital	G	Ad-Tech (subdural strips and grids)	NG108LG919
+NG108LG920	3.625	-77.5	53.0	n/a	L	11	Precuneus	Parietal	G	Ad-Tech (subdural strips and grids)	NG108LG920
+NG108LG921	5.375	-70.5	66.375	n/a	L	11	Precuneus	Parietal	G	Ad-Tech (subdural strips and grids)	NG108LG921
+NA108LIS11	2.200000000000003	-97.5	8.950000000000003	n/a	L	2	Inferior ocipital gyrus and occipital pole	Occipital	A	Ad-Tech (intracerebral depth electrodes)	NA108LIS11
+NA108LIS12	0.6363636363636331	-96.86363636363636	24.522727272727273	n/a	L	3	Cuneus	Occipital	A	Ad-Tech (intracerebral depth electrodes)	NA108LIS12
+NA108LIS13	1.3636363636363669	-96.86363636363636	40.52272727272727	n/a	L	3	Cuneus	Occipital	A	Ad-Tech (intracerebral depth electrodes)	NA108LIS13
+NA108LII11	0.8333333333333357	-87.34444444444443	7.022222222222219	n/a	L	3	Cuneus	Occipital	A	Ad-Tech (intracerebral depth electrodes)	NA108LII11
+NA108LII12	0.75	-85.4	17.299999999999997	n/a	L	3	Cuneus	Occipital	A	Ad-Tech (intracerebral depth electrodes)	NA108LII12
+NA108LII13	0.75	-82.91666666666667	28.166666666666664	n/a	L	3	Cuneus	Occipital	A	Ad-Tech (intracerebral depth electrodes)	NA108LII13
+NA108LII14	1.75	-80.91666666666667	41.541666666666664	n/a	L	3	Cuneus	Occipital	A	Ad-Tech (intracerebral depth electrodes)	NA108LII14
+NA108LII15	3.75	-78.0	54.625	n/a	L	11	Precuneus	Parietal	A	Ad-Tech (intracerebral depth electrodes)	NA108LII15

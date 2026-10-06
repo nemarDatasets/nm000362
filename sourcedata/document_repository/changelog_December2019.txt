@@ -1,0 +1,10 @@
+2019:
+
+We added iEEG Data in sleep stages other than Wakefulness, as described in von Ellenrieder et al. (Annals of Neurology, 2019 https://doi.org/10.1002/ana.25651). Other than the extra available data, if you downloaded the wakefulness data before there is only one change:
+
+Changes: 
+- A 'W' was added as the last character in the channel names.
+
+More details:
+
+To distinguish the sleep stages we added a letter at the end of the channel name. 'W' is for the wakefulness data, which is the same data that was avialable from before.

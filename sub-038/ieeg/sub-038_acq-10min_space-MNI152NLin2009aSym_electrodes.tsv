@@ -1,0 +1,6 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD038Lr_1	-37.0	4.0	13.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD038Lr_1
+GD038Lr_2	-41.0	4.0	13.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD038Lr_2
+GD038Lr_3	-44.0	3.0	13.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD038Lr_3
+GD038Lr_4	-47.5	3.0	12.0	n/a	L	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD038Lr_4
+GD038Lr_5	-52.0	3.0	13.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD038Lr_5

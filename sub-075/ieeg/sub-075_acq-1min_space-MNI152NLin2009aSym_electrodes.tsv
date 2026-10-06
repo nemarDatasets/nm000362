@@ -1,0 +1,14 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD075RHp9	68.0	-26.0	-15.0	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD075RHp9
+MD075ROF1	12.0	25.0	-22.0	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD075ROF1
+MD075ROF9	42.0	30.0	-10.0	n/a	R	24	Orbital part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD075ROF9
+MD075ROF10	45.0	31.0	-8.0	n/a	R	24	Orbital part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD075ROF10
+MD075ROF12	53.0	32.0	-6.5	n/a	R	23	Triangular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD075ROF12
+MD075ROF13	57.0	34.0	-6.0	n/a	R	23	Triangular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD075ROF13
+MD075LA9	-53.0	-7.0	-28.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD075LA9
+MD075LH8	-57.0	-16.0	-23.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD075LH8
+MD075LH9	-60.0	-16.0	-24.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD075LH9
+MD075LOF1	-12.0	29.0	-21.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD075LOF1
+MD075LOF2	-17.0	28.0	-19.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD075LOF2
+MD075LOF3	-21.0	29.0	-18.0	n/a	L	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD075LOF3
+MD075LOF10	-45.0	29.0	-3.0	n/a	L	24	Orbital part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD075LOF10

@@ -1,0 +1,26 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD052LIp1	-37.0	10.0	-6.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	MD052LIp1
+MD052LIp2	-36.0	8.0	-3.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	MD052LIp2
+MD052LIp3	-36.0	7.0	1.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	MD052LIp3
+MD052LIp4	-36.0	5.0	4.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	MD052LIp4
+MD052LIp5	-35.0	4.0	7.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	MD052LIp5
+MD052LIp6	-35.0	2.0	11.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	MD052LIp6
+MD052LIp7	-34.0	0.0	15.0	n/a	L	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	MD052LIp7
+MD052LSMAa2	-11.0	7.0	46.0	n/a	L	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAa2
+MD052LSMAa3	-11.0	6.0	50.0	n/a	L	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAa3
+MD052LSMAa4	-11.0	5.0	55.0	n/a	L	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAa4
+MD052LSMAa6	-12.0	0.0	62.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAa6
+MD052LSMAa7	-12.0	-2.0	65.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAa7
+MD052LSMAa8	-11.0	-4.0	70.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAa8
+MD052LSMAa9	-12.0	-6.0	75.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAa9
+MD052LSMAp1	-9.0	-7.0	35.5	n/a	L	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAp1
+MD052LSMAp2	-9.0	-8.0	38.0	n/a	L	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAp2
+MD052LSMAp3	-10.0	-9.0	42.0	n/a	L	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAp3
+MD052LSMAp4	-11.0	-11.0	44.5	n/a	L	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAp4
+MD052LSMAp5	-11.0	-12.5	49.0	n/a	L	18	Supplementary motor cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAp5
+MD052LSMAp8	-12.0	-17.0	60.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAp8
+MD052LSMAp9	-13.0	-18.0	65.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAp9
+MD052LSMAp10	-13.0	-19.0	69.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAp10
+MD052LSMAp11	-14.0	-20.0	73.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAp11
+MD052LSMAp12	-14.0	-21.0	77.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAp12
+MD052LSMAp13	-15.0	-22.0	82.0	n/a	L	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD052LSMAp13

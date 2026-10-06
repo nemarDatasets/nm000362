@@ -1,0 +1,16 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM054LOF1	-12.0	28.0	-12.0	n/a	L	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LOF1
+MM054LOF5	-34.0	33.0	-4.0	n/a	L	24	Orbital part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LOF5
+MM054LOF6	-39.0	36.0	-2.0	n/a	L	24	Orbital part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LOF6
+MM054LOF7	-44.0	37.0	-1.0	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LOF7
+MM054LOF8	-47.5	39.0	2.0	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LOF8
+MM054LCa1	-9.0	36.0	9.0	n/a	L	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LCa1
+MM054LCa6	-36.5	35.0	17.0	n/a	L	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LCa6
+MM054LCa7	-42.0	35.0	17.0	n/a	L	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LCa7
+MM054LCa8	-46.0	34.0	20.0	n/a	L	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LCa8
+MM054LCp1	-5.5	-50.0	17.0	n/a	L	12	Posterior cingulate	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LCp1
+MM054LCp2	-9.5	-52.0	18.5	n/a	L	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LCp2
+MM054LCp3	-13.0	-53.5	20.0	n/a	L	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LCp3
+MM054LCp4	-18.0	-55.0	23.0	n/a	L	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LCp4
+MM054LHp6	-59.0	-48.0	-8.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LHp6
+MM054LHp7	-64.0	-50.0	-7.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM054LHp7

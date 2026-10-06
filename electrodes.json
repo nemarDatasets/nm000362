@@ -1,0 +1,45 @@
+{
+  "name": {
+    "Description": "Bipolar channel name exactly as in the source (one row per bipolar channel; position is the midpoint of its two contacts)."
+  },
+  "x": {
+    "Units": "mm"
+  },
+  "y": {
+    "Units": "mm"
+  },
+  "z": {
+    "Units": "mm"
+  },
+  "hemisphere": {
+    "Description": "Source Hemisphere variable",
+    "Levels": {
+      "L": "left",
+      "R": "right"
+    }
+  },
+  "region_id": {
+    "Description": "Source region number (1-38 atlas regions for 1min/10min; 1-17 regions for HFO set)."
+  },
+  "region_name": {
+    "Description": "Source region name"
+  },
+  "lobe": {
+    "Description": "Lobe from RegionInformation.csv"
+  },
+  "electrode_type": {
+    "Description": "Source ChannelType",
+    "Levels": {
+      "D": "DIXI intracerebral",
+      "M": "MNI homemade intracerebral",
+      "A": "AdTech intracerebral",
+      "G": "AdTech subdural strips/grids"
+    }
+  },
+  "manufacturer": {
+    "Description": "Electrode manufacturer derived from electrode_type per source readme"
+  },
+  "source_channel_name": {
+    "Description": "Channel name in the source file"
+  }
+}

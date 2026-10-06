@@ -1,0 +1,9 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD033Rb2	32.0	-17.0	-15.0	n/a	R	37	Hippocampus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD033Rb2
+GD033Rr1	34.0	6.0	9.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD033Rr1
+GD033Rr2	38.0	6.0	10.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD033Rr2
+GD033Rr3	41.0	7.0	11.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD033Rr3
+GD033Rr4	45.0	7.0	11.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD033Rr4
+GD033Rr5	49.0	7.0	13.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD033Rr5
+GD033Rr6	54.0	7.0	12.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD033Rr6
+GD033Rr7	59.0	7.0	12.0	n/a	R	29	Precentral gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD033Rr7

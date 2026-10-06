@@ -1,0 +1,35 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD050LCa1	-10.0	38.0	20.0	n/a	L	16	Anterior cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCa1
+MD050LCa5	-26.0	37.0	30.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCa5
+MD050LCa6	-29.0	37.0	32.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCa6
+MD050LCa7	-33.0	37.0	35.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCa7
+MD050LCa8	-36.0	37.0	38.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCa8
+MD050LCa9	-41.0	36.0	38.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCa9
+MD050LCa10	-43.0	36.0	41.5	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCa10
+MD050LCm1	-11.0	6.0	39.0	n/a	L	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCm1
+MD050LCm5	-26.0	6.0	45.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCm5
+MD050LCm6	-30.0	7.0	48.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCm6
+MD050LCm7	-33.0	7.0	50.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCm7
+MD050LCm9	-41.0	9.0	55.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCm9
+MD050LCm10	-45.0	10.0	58.0	n/a	L	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050LCm10
+MD050ROF1	11.0	21.0	-19.0	n/a	R	15	Gyrus rectus and orbital gyri	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050ROF1
+MD050ROF6	30.0	24.0	-10.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	MD050ROF6
+MD050ROF7	33.0	24.0	-7.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	MD050ROF7
+MD050ROF8	36.0	25.0	-5.0	n/a	R	24	Orbital part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050ROF8
+MD050ROF9	41.0	26.0	-4.0	n/a	R	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050ROF9
+MD050RCa6	24.0	41.0	29.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050RCa6
+MD050RCa7	27.0	42.0	32.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050RCa7
+MD050RCa8	30.0	44.0	35.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050RCa8
+MD050RCa9	34.0	45.0	39.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050RCa9
+MD050RCm1	8.0	8.0	35.0	n/a	R	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050RCm1
+MD050RCm2	11.0	9.0	37.0	n/a	R	17	Middle cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050RCm2
+MD050RCm6	26.0	10.0	44.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050RCm6
+MD050RCm7	29.0	11.0	45.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050RCm7
+MD050RCm10	40.0	14.0	52.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050RCm10
+MD050RCm11	44.0	16.0	55.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	MD050RCm11
+MD050RA6	45.0	8.0	-33.0	n/a	R	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD050RA6
+MD050RA7	48.0	9.0	-34.0	n/a	R	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD050RA7
+MD050RA8	52.0	10.0	-34.0	n/a	R	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD050RA8
+MD050RA9	57.0	10.0	-34.0	n/a	R	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD050RA9
+MD050RH8	57.0	-12.0	-25.0	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD050RH8
+MD050RH9	61.0	-12.0	-25.0	n/a	R	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD050RH9

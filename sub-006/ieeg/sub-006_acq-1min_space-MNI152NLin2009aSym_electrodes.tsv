@@ -1,0 +1,15 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD006Rs4	49.0	-1.0	6.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD006Rs4
+GD006Rs5	53.0	-1.0	7.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD006Rs5
+GD006Rs6	57.0	-1.0	6.0	n/a	R	20	Central operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD006Rs6
+GD006Rq3	40.0	24.0	4.0	n/a	R	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD006Rq3
+GD006Rq4	43.0	24.0	4.0	n/a	R	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD006Rq4
+GD006Rq5	47.0	24.0	4.0	n/a	R	23	Triangular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD006Rq5
+GD006Rq6	50.0	24.0	4.0	n/a	R	23	Triangular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD006Rq6
+GD006Rq7	54.0	25.0	4.0	n/a	R	23	Triangular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD006Rq7
+GD006Ry8	37.0	16.0	1.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD006Ry8
+GD006Ry9	36.0	19.0	5.0	n/a	R	13	Anterior insula	Insula	D	DIXI Medical (intracerebral depth electrodes)	GD006Ry9
+GD006Rx11	36.0	50.0	7.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD006Rx11
+GD006Rx12	36.0	54.0	10.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD006Rx12
+GD006Rg_1	3.0	32.0	-8.0	n/a	R	16	Anterior cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD006Rg_1
+GD006Rg_2	8.0	32.0	-8.0	n/a	R	16	Anterior cingulate	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD006Rg_2

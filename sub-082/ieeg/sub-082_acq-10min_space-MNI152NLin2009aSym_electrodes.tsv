@@ -1,0 +1,17 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM082LOF1	-8.0	41.0	-3.0	n/a	L	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LOF1
+MM082LOF2	-16.0	41.0	-3.0	n/a	L	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LOF2
+MM082LOF6	-42.0	39.0	-1.0	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LOF6
+MM082LOF7	-45.0	38.0	0.0	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LOF7
+MM082LOF8	-51.0	39.0	1.0	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LOF8
+MM082LA5	-44.0	-3.0	-24.0	n/a	L	30	Superior temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LA5
+MM082LA6	-49.0	-4.0	-25.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LA6
+MM082LA7	-54.5	-3.0	-23.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LA7
+MM082LA8	-60.0	-4.0	-24.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LA8
+MM082LH4	-52.0	-16.0	-18.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LH4
+MM082LH5	-57.0	-16.0	-18.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LH5
+MM082LH6	-63.0	-16.0	-17.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LH6
+MM082LH7	-68.0	-16.0	-18.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LH7
+MM082LHp5	-56.0	-29.0	-15.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LHp5
+MM082LHp6	-61.0	-30.0	-13.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LHp6
+MM082LHp7	-68.0	-30.0	-14.0	n/a	L	31	Middle temporal gyrus	Temporal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM082LHp7

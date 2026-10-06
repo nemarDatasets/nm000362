@@ -1,0 +1,7 @@
+{
+  "iEEGCoordinateSystem": "MNI152NLin2009aSym",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateSystemDescription": "ICBM 2009a nonlinear symmetric template (1x1x1 mm), as stated by the source readme.",
+  "iEEGCoordinateProcessingDescription": "Source: nonlinear coregistration (affine then nonlinear deformation) between each subject space (where contacts were identified) and the ICBM 2009a symmetric template, applied to native-space electrode positions. Each row is the MIDPOINT between the two contacts of a bipolar channel (rows are bipolar channels, not physical contacts). Coordinates copied unchanged from the source.",
+  "iEEGCoordinateProcessingReference": "Frauscher B et al. (2018) Brain 141:1130-1144, doi:10.1093/brain/awy035; readme_MNI_Open_iEEG_Atlas.txt"
+}

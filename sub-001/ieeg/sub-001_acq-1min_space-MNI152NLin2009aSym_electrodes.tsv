@@ -1,0 +1,15 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD001Lc_11	-56.0	-37.0	-2.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lc_11
+GD001Lc_12	-60.0	-37.0	-4.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lc_12
+GD001Lc_13	-63.0	-37.0	-2.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lc_13
+GD001Lc_14	-68.0	-38.0	-2.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lc_14
+GD001Lo_1	-1.0	42.0	-14.0	n/a	L	19	Medial frontal cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lo_1
+GD001Lo_2	-4.0	42.0	-14.0	n/a	L	19	Medial frontal cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lo_2
+GD001Lo_3	-8.0	42.0	-13.0	n/a	L	19	Medial frontal cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lo_3
+GD001Lo_4	-12.0	43.0	-13.0	n/a	L	19	Medial frontal cortex	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lo_4
+GD001Lv_1	-34.0	-33.0	8.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lv_1
+GD001Lv_2	-38.0	-33.0	10.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lv_2
+GD001Lv_3	-41.0	-33.0	9.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lv_3
+GD001Lv_4	-44.0	-33.5	8.5	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lv_4
+GD001Lv_5	-47.0	-34.0	10.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lv_5
+GD001Lv_6	-51.0	-34.0	10.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD001Lv_6

@@ -1,0 +1,35 @@
+{
+  "TaskName": "sleepREM",
+  "TaskDescription": "REM sleep (stage R). One minute of artifact-free data from the first sleep cycle (sleep stages) or quiet wakefulness, as selected by the MNI Open iEEG Atlas authors.",
+  "InstitutionName": "Montreal Neurological Institute (MNI Open iEEG Atlas); multicentre data from three tertiary epilepsy centres (Frauscher et al. 2018, Brain 141:1130), coded G, M and N in the channel names",
+  "SamplingFrequency": 200.0,
+  "PowerLineFrequency": 50,
+  "SoftwareFilters": {
+    "AntiAliasLowPass_and_Resampling": {
+      "Description": "Resampled to 200 samples/s (unless that was the original rate) after a low-pass anti-aliasing filter at 80 Hz (source readme_MNI_Open_iEEG_Atlas.txt, Preprocessing 1).",
+      "CutoffHz": 80
+    },
+    "AdaptivePowerLineRemoval": {
+      "Description": "Adaptive power-line interference reduction: high-pass 48 Hz FIR (order 100, 38-48 Hz transition) to estimate instantaneous phase/amplitude of line harmonics, first-order IIR smoothing, subtraction of 3rd, 2nd harmonic then fundamental (source readme, Preprocessing 2). 50 Hz for site G, 60 Hz for sites M/N."
+    },
+    "PerSegmentMeanRemoval": {
+      "Description": "Mean of each segment and channel subtracted (source readme, Preprocessing 4; changelog June 2018)."
+    }
+  },
+  "HardwareFilters": "n/a",
+  "iEEGReference": "Bipolar montage between adjacent contacts of the same electrode (each channel is a bipolar derivation; source: one bipolar channel per column).",
+  "ElectrodeManufacturer": "DIXI Medical (intracerebral depth electrodes)",
+  "SEEGChannelCount": 31,
+  "ECOGChannelCount": 0,
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "RecordingDuration": 68.0,
+  "RecordingType": "discontinuous",
+  "SourceFile": "sourcedata/document_repository/MatlabFile.zip:MatlabFile.mat",
+  "SourceVariable": "Data_R",
+  "SourceDocumentation": "sourcedata/document_repository/readme_MNI_Open_iEEG_Atlas.txt"
+}

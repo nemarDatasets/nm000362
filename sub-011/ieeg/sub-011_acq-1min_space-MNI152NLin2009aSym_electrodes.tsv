@@ -1,0 +1,13 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD011Rl9	63.0	9.0	-31.0	n/a	R	33	Temporal pole and planum polare	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD011Rl9
+GD011Rx6	32.0	19.0	14.0	n/a	R	21	Frontal operculum	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD011Rx6
+GD011Rx13	21.0	19.0	43.0	n/a	R	25	Middle frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD011Rx13
+GD011Rx14	19.0	21.0	48.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD011Rx14
+GD011Ry11	22.0	23.0	31.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD011Ry11
+GD011Ry12	21.0	23.0	36.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD011Ry12
+GD011Ry13	19.0	25.0	41.0	n/a	R	26	Superior frontal gyrus and frontal pole	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD011Ry13
+GD011Rq1	32.0	14.0	19.0	n/a	R	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD011Rq1
+GD011Rq2	36.0	13.0	22.0	n/a	R	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD011Rq2
+GD011Rq3	41.0	14.0	23.0	n/a	R	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD011Rq3
+GD011Rq6	51.0	14.0	26.0	n/a	R	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD011Rq6
+GD011Rq7	56.0	15.0	28.0	n/a	R	22	Opercular part of inferior frontal gyrus	Frontal	D	DIXI Medical (intracerebral depth electrodes)	GD011Rq7

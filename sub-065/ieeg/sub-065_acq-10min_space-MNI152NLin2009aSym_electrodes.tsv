@@ -1,0 +1,13 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MD065LHp6	-48.0	-37.0	5.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD065LHp6
+MD065LHp7	-51.0	-37.0	6.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD065LHp7
+MD065LCp9	-37.0	-56.0	27.0	n/a	L	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	MD065LCp9
+MD065LFug7	-54.0	-33.0	-16.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD065LFug7
+MD065LFug8	-58.0	-33.0	-16.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD065LFug8
+MD065LFug9	-62.0	-34.0	-16.0	n/a	L	31	Middle temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	MD065LFug9
+MD065LOi3	-14.0	-84.0	3.0	n/a	L	4	Calcarine cortex	Occipital	D	DIXI Medical (intracerebral depth electrodes)	MD065LOi3
+MD065LOi4	-18.0	-83.0	3.0	n/a	L	4	Calcarine cortex	Occipital	D	DIXI Medical (intracerebral depth electrodes)	MD065LOi4
+MD065LOi8	-33.0	-82.0	4.0	n/a	L	2	Inferior ocipital gyrus and occipital pole	Occipital	D	DIXI Medical (intracerebral depth electrodes)	MD065LOi8
+MD065LOi9	-37.0	-82.0	4.0	n/a	L	2	Inferior ocipital gyrus and occipital pole	Occipital	D	DIXI Medical (intracerebral depth electrodes)	MD065LOi9
+MD065LOi10	-40.0	-82.0	4.0	n/a	L	2	Inferior ocipital gyrus and occipital pole	Occipital	D	DIXI Medical (intracerebral depth electrodes)	MD065LOi10
+MD065LOi11	-43.0	-82.0	4.0	n/a	L	2	Inferior ocipital gyrus and occipital pole	Occipital	D	DIXI Medical (intracerebral depth electrodes)	MD065LOi11

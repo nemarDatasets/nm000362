@@ -1,0 +1,10 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM066LCa1	-11.5	29.0	16.0	n/a	L	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM066LCa1
+MM066LCa5	-36.0	27.0	19.0	n/a	L	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM066LCa5
+MM066LCa6	-41.0	27.0	17.0	n/a	L	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM066LCa6
+MM066LCa7	-47.0	27.0	18.0	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM066LCa7
+MM066LSMA3	-17.0	12.0	47.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM066LSMA3
+MM066LSMA4	-22.0	13.0	50.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM066LSMA4
+MM066LSMA5	-27.0	15.0	53.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM066LSMA5
+MM066LSMA6	-32.0	17.0	58.0	n/a	L	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM066LSMA6
+MM066LSMA7	-37.0	19.0	60.0	n/a	L	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM066LSMA7

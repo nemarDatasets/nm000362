@@ -1,0 +1,17 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM076LOF1	-13.0	24.0	-5.5	n/a	L	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LOF1
+MM076LOF2	-19.0	24.0	-4.5	n/a	L	16	Anterior cingulate	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LOF2
+MM076LOF3	-25.0	25.0	-3.0	n/a	L	13	Anterior insula	Insula	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LOF3
+MM076LOF4	-31.0	25.0	-3.0	n/a	L	13	Anterior insula	Insula	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LOF4
+MM076LOF5	-37.0	26.0	-1.0	n/a	L	13	Anterior insula	Insula	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LOF5
+MM076LOF6	-43.0	26.0	-2.0	n/a	L	21	Frontal operculum	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LOF6
+MM076LOF7	-48.0	27.0	0.5	n/a	L	21	Frontal operculum	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LOF7
+MM076LOF8	-53.0	28.0	0.0	n/a	L	23	Triangular part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LOF8
+MM076LCp1	-15.0	-40.0	45.0	n/a	L	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LCp1
+MM076LCp2	-21.0	-41.0	46.0	n/a	L	11	Precuneus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LCp2
+MM076LCp4	-32.0	-43.0	47.0	n/a	L	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LCp4
+MM076LCp5	-38.0	-43.0	48.0	n/a	L	7	Superior parietal lobule	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LCp5
+MM076LCp6	-43.0	-43.0	50.0	n/a	L	9	Supramarginal gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LCp6
+MM076LCp7	-49.0	-43.0	51.0	n/a	L	9	Supramarginal gyrus	Parietal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LCp7
+MM076LIa6	-38.0	11.0	25.0	n/a	L	22	Opercular part of inferior frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LIa6
+MM076LIa7	-38.0	14.0	29.0	n/a	L	25	Middle frontal gyrus	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM076LIa7

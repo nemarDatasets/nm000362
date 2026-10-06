@@ -1,0 +1,3 @@
+onset	duration	trial_type	sleep_stage	segment_index	sample	n_samples
+0.0	579.0	artifact_free_segment	N3	1	0	115800
+579.0	47.0	zero_padding_end	n/a	n/a	115800	9400

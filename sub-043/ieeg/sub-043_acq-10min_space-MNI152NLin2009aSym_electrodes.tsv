@@ -1,0 +1,9 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD043Rv15	64.0	-32.0	30.0	n/a	R	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD043Rv15
+GD043Rw12	50.0	-50.0	20.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD043Rw12
+GD043Rw13	55.0	-48.0	20.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD043Rw13
+GD043Rp8	36.0	-54.0	43.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD043Rp8
+GD043Rp9	40.0	-55.0	43.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD043Rp9
+GD043Rp10	44.0	-54.0	43.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD043Rp10
+GD043Rp11	47.0	-54.0	42.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD043Rp11
+GD043Rp12	52.0	-53.0	42.0	n/a	R	10	Angular gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD043Rp12

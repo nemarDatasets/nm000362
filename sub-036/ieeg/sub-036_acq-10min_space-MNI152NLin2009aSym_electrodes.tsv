@@ -1,0 +1,28 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+GD036LO_1	-3.0	-74.0	3.0	n/a	L	5	Lingual gyrus and occipital fusiform gyrus	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD036LO_1
+GD036LO_2	-7.0	-74.0	4.0	n/a	L	5	Lingual gyrus and occipital fusiform gyrus	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD036LO_2
+GD036LO_3	-12.0	-74.0	5.0	n/a	L	5	Lingual gyrus and occipital fusiform gyrus	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD036LO_3
+GD036LO_10	-41.0	-75.0	2.0	n/a	L	2	Inferior ocipital gyrus and occipital pole	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD036LO_10
+GD036LO_11	-45.0	-75.0	2.0	n/a	L	2	Inferior ocipital gyrus and occipital pole	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD036LO_11
+GD036LO_12	-49.0	-76.0	1.0	n/a	L	2	Inferior ocipital gyrus and occipital pole	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD036LO_12
+GD036LO_13	-55.0	-76.0	0.0	n/a	L	2	Inferior ocipital gyrus and occipital pole	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD036LO_13
+GD036LU_2	-39.0	-25.0	5.0	n/a	L	34	Transverse temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD036LU_2
+GD036LU_3	-44.0	-26.0	5.0	n/a	L	34	Transverse temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD036LU_3
+GD036LU_6	-57.0	-25.0	5.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD036LU_6
+GD036LU_7	-61.0	-27.0	5.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD036LU_7
+GD036LU_8	-64.0	-26.0	4.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD036LU_8
+GD036LU_9	-69.0	-26.0	4.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD036LU_9
+GD036LA_1	-37.0	-40.0	16.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD036LA_1
+GD036LA_2	-41.0	-39.0	16.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD036LA_2
+GD036LA_6	-59.0	-40.0	16.0	n/a	L	35	Planum temporale	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD036LA_6
+GD036LA_7	-63.0	-40.0	16.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD036LA_7
+GD036LA_8	-67.0	-40.0	17.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD036LA_8
+GD036LA_9	-72.0	-41.0	16.0	n/a	L	30	Superior temporal gyrus	Temporal	D	DIXI Medical (intracerebral depth electrodes)	GD036LA_9
+GD036LS_1	-5.0	-78.0	15.0	n/a	L	4	Calcarine cortex	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD036LS_1
+GD036LS_2	-10.0	-78.0	16.0	n/a	L	4	Calcarine cortex	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD036LS_2
+GD036LS_11	-48.0	-81.0	14.0	n/a	L	1	Superior and middle occipital gyri	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD036LS_11
+GD036LS_12	-53.0	-81.0	14.0	n/a	L	1	Superior and middle occipital gyri	Occipital	D	DIXI Medical (intracerebral depth electrodes)	GD036LS_12
+GD036LV_1	-3.0	-43.0	30.0	n/a	L	12	Posterior cingulate	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD036LV_1
+GD036LV_2	-7.0	-42.0	30.0	n/a	L	12	Posterior cingulate	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD036LV_2
+GD036LV_12	-49.0	-42.0	27.0	n/a	L	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD036LV_12
+GD036LV_15	-63.0	-43.0	28.0	n/a	L	9	Supramarginal gyrus	Parietal	D	DIXI Medical (intracerebral depth electrodes)	GD036LV_15

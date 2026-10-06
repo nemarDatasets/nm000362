@@ -1,0 +1,32 @@
+{
+  "TaskName": "sleepN3",
+  "TaskDescription": "Non-REM sleep stage N3. Up to 10 minutes of artifact-free data (Non-REM sleep 20-min dataset of the MNI Open iEEG Atlas; von Ellenrieder et al. 2020).",
+  "InstitutionName": "Montreal Neurological Institute (MNI Open iEEG Atlas); multicentre data from three tertiary epilepsy centres (Frauscher et al. 2018, Brain 141:1130), coded G, M and N in the channel names",
+  "SamplingFrequency": 200.0,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": {
+    "AntiAliasLowPass_and_Resampling": {
+      "Description": "Resampled to 200 samples/s (unless that was the original rate) after a low-pass anti-aliasing filter at 80 Hz (source readme_NREMsleep.txt, Preprocessing 1).",
+      "CutoffHz": 80
+    },
+    "PerSegmentMeanRemoval": {
+      "Description": "Mean of each segment and channel subtracted (source readme_NREMsleep.txt, Preprocessing 3)."
+    }
+  },
+  "HardwareFilters": "n/a",
+  "iEEGReference": "Bipolar montage between adjacent contacts of the same electrode (each channel is a bipolar derivation; source: one bipolar channel per column).",
+  "ElectrodeManufacturer": "Ad-Tech (intracerebral depth electrodes); Ad-Tech (subdural strips and grids)",
+  "SEEGChannelCount": 1,
+  "ECOGChannelCount": 28,
+  "EEGChannelCount": 0,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "TriggerChannelCount": 0,
+  "RecordingDuration": 626.0,
+  "RecordingType": "discontinuous",
+  "SourceFile": "sourcedata/document_repository/NREM_sleep_20min.zip:NREM-sleep-20min.mat",
+  "SourceVariable": "Data_N3",
+  "SourceDocumentation": "sourcedata/document_repository/readme_NREMsleep.txt; changelog_September2020.txt (N2/N3 variables replaced in Sept 2020)"
+}

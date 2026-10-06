@@ -1,0 +1,6 @@
+name	x	y	z	size	hemisphere	region_id	region_name	lobe	electrode_type	manufacturer	source_channel_name
+MM080LSMAa1	-11.0	4.0	44.0	n/a	L	18	Supplementary motor cortex	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM080LSMAa1
+MM080LSMAa2	-13.5	4.0	48.0	n/a	L	18	Supplementary motor cortex	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM080LSMAa2
+MM080LSMAa4	-19.0	5.0	59.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM080LSMAa4
+MM080LSMAa5	-21.0	6.0	65.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM080LSMAa5
+MM080LSMAa6	-23.0	7.0	69.0	n/a	L	26	Superior frontal gyrus and frontal pole	Frontal	M	Montreal Neurological Institute homemade intracerebral electrodes	MM080LSMAa6
