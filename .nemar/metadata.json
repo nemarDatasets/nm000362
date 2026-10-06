@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "MNI Open iEEG Atlas: normal intracranial EEG in wakefulness and sleep (processed 200 Hz atlas clips)",
-  "description": "Processed 200 Hz atlas clips from the MNI Open iEEG Atlas, comprising bipolar intracranial EEG (sEEG and ECoG) from 106 patients with drug-resistant focal epilepsy. Data cover one minute of artifact-free activity per vigilance state (wakefulness, N2, N3, REM) plus up to 10 minutes of N2 and N3 sleep, recorded from channels judged to show normal activity. Channels are localized in MNI space across 38 grey-matter regions. The authors' filtering, resampling and artifact-removal steps are retained, and segments are concatenated with zero buffers.",
-  "methods_description": "Intracranial EEG was recorded during clinical presurgical evaluation at three tertiary epilepsy centres. The source authors applied an 80 Hz low-pass anti-aliasing filter and resampled to 200 Hz, then reduced power-line noise adaptively (1-min set). Artifacts were rejected visually, per-segment means were removed, and artifact-free segments were concatenated with 2-s zero buffers and zero-padded to a common length. Data were repacked losslessly into BrainVision float32 format.",
+  "description": "Processed part of the MNI Open iEEG Atlas, providing artifact-free intracranial EEG (stereo-EEG and subdural strips/grids) from 106 patients with drug-resistant focal epilepsy. Channels recording normal activity are included. The data comprise one minute per vigilance state (wakefulness, N2, N3, REM) plus up to 10 minutes of N2 and N3 sleep, resampled to 200 Hz and stored as bipolar derivations with MNI-space electrode coordinates. The dataset serves as a normative reference for intracranial brain activity across cortical regions and sleep stages.",
+  "methods_description": "Source authors low-pass filtered at 80 Hz and resampled to 200 Hz, reduced power-line interference with an adaptive filter, visually rejected artifacts, removed per-segment means, and concatenated artifact-free segments with zero buffers. The data were repacked losslessly into BrainVision float32 format without further filtering or re-referencing. Recordings are bipolar derivations from three epilepsy centres.",
   "license": "CC-BY-NC-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -29,6 +29,9 @@
       "term": "stereo-EEG"
     },
     {
+      "term": "SEEG"
+    },
+    {
       "term": "Sleep",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D012890"
@@ -39,15 +42,26 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D014851"
     },
     {
-      "term": "normal brain activity"
-    },
-    {
-      "term": "atlas"
-    },
-    {
       "term": "Epilepsy",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+    },
+    {
+      "term": "normative atlas"
+    },
+    {
+      "term": "REM sleep"
+    },
+    {
+      "term": "NREM sleep"
+    },
+    {
+      "term": "resting state"
     }
   ],
   "related_identifiers": [
@@ -59,7 +73,7 @@
     {
       "identifier": "10.1002/ana.25651",
       "identifier_type": "DOI",
-      "relation_type": "References"
+      "relation_type": "IsDescribedBy"
     },
     {
       "identifier": "10.1002/ana.25304",
@@ -79,10 +93,26 @@
   ],
   "funding_references": [
     {
-      "funder_name": "Canadian Institutes of Health Research"
+      "funder_name": "Fonds de Recherche du Québec - Santé (Chercheur-boursier clinicien Junior 2 to B.F.)"
+    },
+    {
+      "funder_name": "Savoy Epilepsy Foundation (project grant to B.F. and post-doctoral fellowship to R.Z.)"
+    },
+    {
+      "funder_name": "Botterell Powell's Foundation (grant to B.F.)"
+    },
+    {
+      "funder_name": "Canadian Institutes of Health Research",
+      "award_number": "FDN-143208"
     },
     {
       "funder_name": "Fonds de Recherche du Québec - Santé"
+    },
+    {
+      "funder_name": "Savoy Epilepsy Foundation"
+    },
+    {
+      "funder_name": "Botterell Powell's Foundation"
     }
   ],
   "resource_type_general": "Dataset",
@@ -106,5 +136,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "a7e6bdc54bf710f02d33d746077945cd30073f18d9bb98f112258be209b93513"
+  "source_hash": "c7c8879eb134b02ba0a640b7a9eb7269b2b4d48668d7a70936612c1960883692"
 }
