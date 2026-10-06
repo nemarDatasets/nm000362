@@ -19,10 +19,13 @@
     "Christine Rogers"
   ],
   "Acknowledgements": "Data published by the authors in the MNI Open iEEG Atlas (https://mni-open-ieegatlas.research.mcgill.ca/), Montreal Neurological Institute. BIDS conversion for NEMAR by Bruno Aristimunha's iEEG-NEMAR campaign.",
-  "HowToAcknowledge": "Cite Frauscher B, von Ellenrieder N, Zelmann R, Doležalová I, Minotti L, Olivier A, Hall J, Hoffmann D, Nguyen DK, Kahane P, Dubeau F, Gotman J. Atlas of the normal intracranial electroencephalogram: neurophysiological awake activity in different cortical areas. Brain 2018;141(4):1130-1144. doi:10.1093/brain/awy035; and von Ellenrieder N, Gotman J, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Frauscher B. How the Human Brain Sleeps: Direct Cortical Recordings of Normal Brain Activity. Ann Neurol 2020;87(2):289-301. doi:10.1002/ana.25651. The source asks: \"Please cite this paper if you use the data in your work.\"",
+  "HowToAcknowledge": "Please cite: Frauscher B, von Ellenrieder N, Zelmann R, Doležalová I, Minotti L, Olivier A, Hall J, Hoffmann D, Nguyen DK, Kahane P, Dubeau F, Gotman J. Atlas of the normal intracranial electroencephalogram: neurophysiological awake activity in different cortical areas. Brain 2018;141(4):1130-1144. doi:10.1093/brain/awy035; Frauscher B, von Ellenrieder N, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Gotman J. High-Frequency Oscillations in the Normal Human Brain. Ann Neurol 2018;84(3):374-385. doi:10.1002/ana.25304; von Ellenrieder N, Gotman J, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Frauscher B. How the Human Brain Sleeps: Direct Cortical Recordings of Normal Brain Activity. Ann Neurol 2020;87(2):289-301. doi:10.1002/ana.25651. Source: MNI Open iEEG Atlas, Montreal Neurological Institute, https://mni-open-ieegatlas.research.mcgill.ca/",
   "Funding": [
     "Canadian Institutes of Health Research",
     "Fonds de Recherche du Québec - Santé"
+  ],
+  "EthicsApprovals": [
+    "Montreal Neurological Institute (lead ethics organization for the multicentre MNI Open iEEG Atlas), REB vote MUHC-15-950. Frauscher et al. 2018, Brain 141:1130, Methods: \"Ethical approval was granted at the MNI as lead ethics organization (REB vote: MUHC-15-950).\""
   ],
   "ReferencesAndLinks": [
     "https://mni-open-ieegatlas.research.mcgill.ca/",

@@ -67,6 +67,12 @@ MM076LOF1 and MM076LOF2 have region "NA" in ChannelInformation.csv and 16 in Mat
 uses MatlabFile.mat. `sourcedata/eegbrowser/` holds the template (`model_mni.nii.gz`), the region-label volume
 (`labels_mni.nii.gz`) and the channel metadata (`GetMeta.json`) served by the atlas's online EEG browser.
 
+## Ethics
+
+Frauscher et al. 2018 (Brain 141:1130), Methods: "Ethical approval was granted at the MNI as lead ethics
+organization (REB vote: MUHC-15-950)." The data were recorded during clinical presurgical evaluation of drug-resistant
+focal epilepsy at three tertiary epilepsy centres.
+
 ## Participants
 
 Patients with drug-resistant focal epilepsy investigated with intracranial EEG at three tertiary epilepsy
