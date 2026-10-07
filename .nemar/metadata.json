@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "MNI Open iEEG Atlas: normal intracranial EEG in wakefulness and sleep (processed 200 Hz atlas clips)",
-  "description": "Processed part of the MNI Open iEEG Atlas, providing artifact-free intracranial EEG (stereo-EEG and subdural strips/grids) from 106 patients with drug-resistant focal epilepsy. Channels recording normal activity are included. The data comprise one minute per vigilance state (wakefulness, N2, N3, REM) plus up to 10 minutes of N2 and N3 sleep, resampled to 200 Hz and stored as bipolar derivations with MNI-space electrode coordinates. The dataset serves as a normative reference for intracranial brain activity across cortical regions and sleep stages.",
-  "methods_description": "Source authors low-pass filtered at 80 Hz and resampled to 200 Hz, reduced power-line interference with an adaptive filter, visually rejected artifacts, removed per-segment means, and concatenated artifact-free segments with zero buffers. The data were repacked losslessly into BrainVision float32 format without further filtering or re-referencing. Recordings are bipolar derivations from three epilepsy centres.",
+  "description": "A processed derivative release of the MNI Open iEEG Atlas containing artifact-free intracranial EEG (stereo-EEG and subdural strips/grids) at 200 Hz from 106 patients with drug-resistant focal epilepsy. It provides one minute of normal-appearing activity per vigilance state (wakefulness, N2, N3, REM) and up to 10 minutes of N2 and N3 sleep, with bipolar channels localized in MNI space. The data serve as a normative atlas of physiological intracranial activity across cortical regions.",
+  "methods_description": "Source authors low-pass filtered at 80 Hz, resampled to 200 Hz, removed power-line interference adaptively, visually rejected artifacts, and concatenated artifact-free segments with zero buffers. Channels are bipolar derivations between adjacent contacts, selected from normal grey-matter tissue outside the seizure onset zone. Arrays were repacked losslessly into BrainVision float32 format.",
   "license": "CC-BY-NC-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -23,13 +23,15 @@
   },
   "keywords": [
     {
-      "term": "intracranial EEG"
+      "term": "Intracranial EEG"
     },
     {
-      "term": "stereo-EEG"
+      "term": "Stereo-EEG"
     },
     {
-      "term": "SEEG"
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
     },
     {
       "term": "Sleep",
@@ -47,21 +49,7 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
     },
     {
-      "term": "Electrocorticography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
-    },
-    {
       "term": "normative atlas"
-    },
-    {
-      "term": "REM sleep"
-    },
-    {
-      "term": "NREM sleep"
-    },
-    {
-      "term": "resting state"
     }
   ],
   "related_identifiers": [
