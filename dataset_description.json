@@ -71,5 +71,7 @@
       "Name": "laneF_convert_ieeg008.py + laneF_split_ieeg008.py (iEEG-NEMAR campaign, lane F)",
       "Description": "Lossless repack of the source float32 arrays (MatlabFile.mat, NREM-sleep-20min.mat) into BrainVision IEEE_FLOAT_32 per subject/stage; zero buffers and padding detected (all channels exactly 0) and listed in events.tsv. No filtering, resampling or re-referencing."
     }
-  ]
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000362",
+  "Version": "1.0.0"
 }
