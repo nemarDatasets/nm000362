@@ -1,0 +1,202 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.nm000362-blue)](https://doi.org/10.82901/nemar.nm000362)
+
+# MNI Open iEEG Atlas: normal intracranial EEG in wakefulness and sleep (processed 200 Hz clips)
+
+## Overview
+
+This is the **processed** part of the MNI Open iEEG Atlas: one minute of artifact-free intracranial EEG per
+vigilance state (wakefulness, N2, N3, REM), plus up to 10 minutes of N2 and N3 sleep, from 106 patients.
+The authors already filtered, resampled, cleaned and concatenated these data, so this is deposited as a
+**derivative** dataset (`DatasetType: derivative`). The high-sampling-rate sEEG used for the normal-HFO study is
+deposited separately as a raw dataset (title "MNI Open iEEG Atlas: high-sampling-rate NREM sleep sEEG").
+
+The atlas papers: wakefulness, Frauscher et al. 2018 (Brain 141:1130): "A total of 1785 channels with normal brain
+activity from 106 patients were identified" (abstract; the release has 1772 wake channels, see Contents); sleep,
+von Ellenrieder et al. 2020 (Ann Neurol 87:289): "Intracerebral electroencephalographic recordings with channels
+displaying physiological activity from nonlesional tissue were selected from 91 patients of 3 tertiary epilepsy
+centers. Sections during non-rapid eye movement sleep (stages N2 and N3) and rapid eye movement sleep (stage R) were
+selected from the first sleep cycle" and "Results of 1,468 channels were grouped into 38 regions" (abstract).
+
+## License
+
+CC-BY-NC-4.0
+
+## Cohort
+
+Patients with drug-resistant focal epilepsy investigated with intracranial EEG at three tertiary epilepsy
+centres (Frauscher et al. 2018). Only channels judged by the authors to record normal activity (outside the
+epileptic zone and lesions, in grey matter) are included. `participants.tsv` holds only what the source
+publishes: the source patient number (1-110; participant label `sub-<3-digit number>`), sex and age at time
+of study (`PatientInformation.csv`), and the recording-centre code (first character of the source channel
+names: G, M or N; the source does not name the centres). No other clinical information exists in the source
+and none was added.
+
+- Patients: 106 (58 male, 48 female; age at time of study 13-62 years; centre codes G 49, M 39, N 18;
+  `participants.tsv`). The readme: "The numbers range from 1 to 110, but there are only 106 different patients (no
+  suitable channels were found in patients 51, 86, 95, and 105, so these patients do not appear in the database)."
+- Centres (Frauscher et al. 2018, Brain, Methods, "Selection of intracranial EEG recordings"): Montreal Neurological
+  Institute and Hospital (MNI), Centre Hospitalier de l'Université de Montréal (CHUM) and Grenoble-Alpes University
+  Hospital (CHUGA). Patients were screened "starting with the most recent patients at time of data collection
+  (September 2015 for MNI and CHUM, April 2016 for CHUGA), and moving consecutively backward to January 2010 or
+  earlier". The source does not state which centre code (G, M, N) corresponds to which centre, so no mapping is given.
+- Implants: stereo-EEG depth electrodes (DIXI, MNI homemade, AdTech) and AdTech subdural strips/grids (source
+  `ChannelType` D, M, A, G). The paper (Brain, Results, Fig. 2): "stereo-EEG (commercial DIXI electrodes, home-made MNI
+  electrodes, or Ad-Tech electrodes) or cortical grids/strips (Ad-Tech electrodes)".
+- Original sampling rates before the source resampled to 200 Hz (Brain, Methods): "200, 256, 512, 1000, 1024, and
+  2000 samples per second"; a minimum of 200 Hz was an inclusion criterion.
+- Selection criteria (Brain, Methods): "A channel with normal activity is defined as a channel localized in normal
+  tissue as assessed by MRI, is located outside the seizure onset zone, does not show at any time of the circadian
+  cycle interictal epileptic discharges (according to the clinical report of the complete implantation and to a
+  careful investigation of one night of sleep by a board-certified electrophysiologist), and shows the absence of
+  overt slow-wave anomaly"; contacts in white matter were excluded; recordings had to be obtained "after a minimum of
+  72 h after insertion of stereo-EEG electrodes or 1 week after placement of subdural grids or strips [...] and at
+  least 12 h after a generalized tonic-clonic seizure, 6 h in case of focal clinical seizures, or 2 h in case of
+  purely electrographic seizures, and not after electrical stimulation". Patients with large cortical malformations
+  were excluded.
+
+## Task and states
+
+No task or stimulus. `task-wake`: quiet wakefulness with eyes closed; the Brain paper (Methods) selected 60 s
+"(either continuous or consecutive discontinuous >5 s segments after artefact exclusion)" of "resting wakefulness EEG
+with eyes closed recorded during standardized conditions", part of the controlled "eyes closed and eyes opened"
+recordings of the clinical evaluation. `task-sleepN2`, `task-sleepN3`, `task-sleepREM`: sleep stages N2, N3 and R
+from the first sleep cycle (von Ellenrieder et al. 2020). Reference: every channel is a bipolar derivation between
+adjacent contacts of one electrode. Power-line frequency per the readme: 50 Hz for channels whose name begins with
+'G', 60 Hz for 'M' or 'N' (`PowerLineFrequency` in `*_ieeg.json`). Amplifier/acquisition system and hardware
+filters are not stated in the readmes or in the Brain paper and are left `n/a`.
+
+## Contents
+
+| acq | task | Source file | Channels / subjects | Samples |
+|---|---|---|---|---|
+| 1min | wake (quiet wakefulness, eyes closed) | MatlabFile.mat `Data_W` | 1772 / 106 | 13600 (68 s) |
+| 1min | sleepN2 | MatlabFile.mat `Data_N2` | 1468 / 91 | 13600 |
+| 1min | sleepN3 | MatlabFile.mat `Data_N3` | 1468 / 91 | 13600 |
+| 1min | sleepREM | MatlabFile.mat `Data_R` | 1012 / 65 | 13600 |
+| 10min | sleepN2 | NREM-sleep-20min.mat `Data_N2` | 1468 / 91 | 123600 (10 min 18 s) |
+| 10min | sleepN3 | NREM-sleep-20min.mat `Data_N3` | 1468 / 91 | 125200 (10 min 26 s) |
+
+All at 200 Hz, microvolts (float32). Sleep was taken from the first sleep cycle (von Ellenrieder et al. 2020).
+The 10-min N2/N3 variables are the corrected September 2020 version (`changelog_September2020.txt`). The
+source's EDF copies of the 1-min set (`*_AllRegions.zip`, one file per brain region) are kept in `sourcedata/`;
+they match MatlabFile.mat to within 0.5 of the EDF quantisation step.
+
+Files per recording:
+
+- `*_ieeg.vhdr/.vmrk/.eeg`: BrainVision, IEEE_FLOAT_32, µV, bit-identical to the source arrays.
+- `*_ieeg.json`: sampling rate, power-line frequency, the source processing (`SoftwareFilters`), reference,
+  electrode manufacturer, source file and variable.
+- `*_channels.tsv`: one row per bipolar channel (source names); type SEEG (depth) or ECOG (strips/grids).
+- `*_space-MNI152NLin2009aSym_electrodes.tsv` + `*_coordsystem.json` (per `acq`): one row per bipolar channel at the
+  midpoint of its two contacts, with hemisphere, region number/name, lobe and electrode type.
+- `*_events.tsv/.json`: artifact-free segments (with `sleep_stage` W/N2/N3/R), zero buffers and end padding.
+- `sub-*_scans.tsv`: list of recordings (no acquisition times exist).
+- `sourcedata/document_repository/`: original release files (readmes, changelogs, Information.zip, MatlabFile.zip,
+  NREM_sleep_20min.zip, *_AllRegions.zip, BandPowerDistribution.pdf), byte-identical with SHA-256 checksums.
+- `sourcedata/eegbrowser/`: files served by the atlas's online EEG browser (see Coordinates).
+
+## Processing done by the source authors (verbatim summary of the readmes)
+
+1-min set (`readme_MNI_Open_iEEG_Atlas.txt`):
+1. "All signals were resampled to 200 samples per second (unless that was the original sampling rate), after
+   applying a low-pass antialiasing filter at 80 Hz."
+2. Power-line interference reduced with an adaptive filter (harmonics estimated and subtracted; 50 Hz for
+   channels whose name begins with 'G', 60 Hz for 'M' or 'N').
+3. "Artifacts were visually detected by an experienced neurophysiologist, and excluded from the recording.
+   This resulted in some patients having several non-consecutive segments to complete one minute of data."
+4. "The mean value of each segment and channel was subtracted from the corresponding segment and channel."
+5. "The segments were concatenated leaving a buffer time of 2 seconds of zero amplitude between segments.
+   ... All the channels were then zero padded at the end to a length of 68 seconds (13600 samples) if necessary"
+
+10-min N2/N3 set (`readme_NREMsleep.txt`): the same steps without the power-line step; concatenated length
+"10 min 18 seconds for stage N2 and 10 min 26 seconds for stage N3".
+
+## Known caveats
+
+**These files are not continuous recordings.** Each `*_events.tsv` lists every artifact-free segment
+(`trial_type = artifact_free_segment`, with `sleep_stage` and `segment_index`), every 2-s zero buffer
+(`zero_buffer_between_segments`) and the end padding (`zero_padding_end`), found as samples where all channels
+of the subject are exactly 0 µV. Consecutive segments were not contiguous in the original recording. Every
+buffer found is exactly 400 samples (2 s); the largest segment counts (5 in wake, 9 in 10-min N2, 13 in 10-min
+N3) match the numbers stated in the readmes. Onsets are relative to the file start; there are no acquisition
+dates or times. Sidecars set `RecordingType: discontinuous` and list the source processing in `SoftwareFilters`.
+
+Coordinates: MNI space, "ICBM 2009a symmetric template (1x1x1 mm)" per the source, via nonlinear coregistration
+(`space-MNI152NLin2009aSym`). Regions: 38 grey-matter regions (`RegionInformation.csv`, from a segmentation
+derived from the MICCAI 2012 multi-atlas labelling template). Source inconsistency kept as published: channels
+MM076LOF1 and MM076LOF2 have region "NA" in ChannelInformation.csv and 16 in MatlabFile.mat; electrodes.tsv
+uses MatlabFile.mat. `sourcedata/eegbrowser/` holds the template (`model_mni.nii.gz`), the region-label volume
+(`labels_mni.nii.gz`) and the channel metadata (`GetMeta.json`) served by the atlas's online EEG browser.
+
+- The Brain paper abstract counts 1785 wake channels; the release has 1772. The source does not explain the
+  difference.
+- The Brain paper (Methods) states the co-registration target as the "ICBM152 2009c non-linear symmetric brain
+  model", while the release readme states "ICBM 2009a symmetric template" for the channel positions. The space label
+  follows the readme of the released coordinates.
+- Missing stages: channels without data for a stage (NaN in the source) are absent from that recording, so the
+  channel sets of `wake`, `sleepN2/N3` and `sleepREM` of one subject can differ.
+
+## Channels and coordinates
+
+Every channel is a **bipolar** derivation between adjacent contacts of one electrode. `electrodes.tsv` has one
+row per bipolar channel, positioned at the **midpoint** of its two contacts, coordinates copied unchanged from
+the source. Channel names are the source names. Channel type SEEG for depth electrodes (source types D = DIXI,
+M = MNI homemade, A = AdTech), ECOG for subdural strips/grids (type G = AdTech).
+
+## How to load
+
+```python
+from mne_bids import BIDSPath, read_raw_bids
+bp = BIDSPath(root=".", subject="001", task="wake", acquisition="1min",
+              datatype="ieeg", suffix="ieeg", extension=".vhdr")
+raw = read_raw_bids(bp)          # bipolar channels, 200 Hz (MNE stores volts)
+events = raw.annotations         # artifact-free segments, 2-s zero buffers, end padding
+```
+
+Drop the `zero_buffer_between_segments` and `zero_padding_end` intervals before computing spectra or other
+statistics.
+
+## How to cite
+
+Cite all papers that describe the data you use:
+
+- Frauscher B, von Ellenrieder N, Zelmann R, Doležalová I, Minotti L, Olivier A, Hall J, Hoffmann D, Nguyen DK, Kahane P, Dubeau F, Gotman J. Atlas of the normal intracranial electroencephalogram: neurophysiological awake activity in different cortical areas. Brain 2018;141(4):1130-1144. doi:10.1093/brain/awy035
+- Frauscher B, von Ellenrieder N, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Gotman J. High-Frequency Oscillations in the Normal Human Brain. Ann Neurol 2018;84(3):374-385. doi:10.1002/ana.25304
+- von Ellenrieder N, Gotman J, Zelmann R, Rogers C, Nguyen DK, Kahane P, Dubeau F, Frauscher B. How the Human Brain Sleeps: Direct Cortical Recordings of Normal Brain Activity. Ann Neurol 2020;87(2):289-301. doi:10.1002/ana.25651
+
+Source: MNI Open iEEG Atlas, Montreal Neurological Institute, https://mni-open-ieegatlas.research.mcgill.ca/
+
+## Ethics
+
+Frauscher et al. 2018 (Brain 141:1130), Methods: "Ethical approval was granted at the MNI as lead ethics
+organization (REB vote: MUHC-15-950)." The data were recorded during clinical presurgical evaluation of drug-resistant
+focal epilepsy at three tertiary epilepsy centres.
+
+## Funding
+
+Frauscher et al. 2018 (Brain 141:1130), Funding: "This work was supported by the Savoy Epilepsy Foundation (project
+grant to B.F. and post-doctoral fellowship to R.Z.), the Botterell Powell's Foundation (grant to B.F.), and the
+Canadian Institute of Health Research (grant FDN-143208 to J.G.)." Crossref funder record of von Ellenrieder et al.
+2020 (doi:10.1002/ana.25651): Canadian Institutes of Health Research "FDN-143208 (JG)"; Fonds de Recherche du
+Québec - Santé "Chercheur-boursier clinicien Junior 2 (BF)".
+
+## Participants
+
+See Cohort. `participants.tsv` also flags whether a patient is in the 1-min atlas and in the 10-min NREM set, and
+lists the hemispheres, electrode types and channel count of the patient's atlas channels.
+
+## Privacy
+
+The source files were already anonymised by the authors (EDF headers carry "X" placeholders and the date
+01-JAN-1970; no names, birth dates or recording dates). A byte-level review of every converted file and of
+`sourcedata/` found no participant identifiers. The only personal names are author attributions (the
+HFODetector.m author line and the PDF author field). The NIfTI volumes are brain templates, not participant
+images.
+
+## Conversion
+
+Conversion (iEEG-NEMAR campaign, lane F, 2026-10-06) is a lossless repack: every sample in the BrainVision
+`.eeg` files is bit-identical to the source arrays (606/606 recordings verified, raw bytes compared). No
+filtering, resampling, re-referencing, rescaling or channel selection was done. Channels absent in a stage
+(NaN columns in the source) are omitted from that recording, never filled. All original files are kept
+byte-identical under `sourcedata/` with SHA-256 checksums.
