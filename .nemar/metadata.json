@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "MNI Open iEEG Atlas: normal intracranial EEG in wakefulness and sleep (processed 200 Hz atlas clips)",
-  "description": "A processed derivative release of the MNI Open iEEG Atlas containing artifact-free intracranial EEG (stereo-EEG and subdural strips/grids) at 200 Hz from 106 patients with drug-resistant focal epilepsy. It provides one minute of normal-appearing activity per vigilance state (wakefulness, N2, N3, REM) and up to 10 minutes of N2 and N3 sleep, with bipolar channels localized in MNI space. The data serve as a normative atlas of physiological intracranial activity across cortical regions.",
-  "methods_description": "Source authors low-pass filtered at 80 Hz, resampled to 200 Hz, removed power-line interference adaptively, visually rejected artifacts, and concatenated artifact-free segments with zero buffers. Channels are bipolar derivations between adjacent contacts, selected from normal grey-matter tissue outside the seizure onset zone. Arrays were repacked losslessly into BrainVision float32 format.",
+  "description": "Processed derivative release of the MNI Open iEEG Atlas, providing normal intracranial EEG (stereo-EEG and subdural strips/grids) from 106 patients with drug-resistant focal epilepsy. It includes one minute of artifact-free, 200 Hz bipolar-derivation signal per vigilance state (wakefulness, N2, N3, REM) and up to 10 minutes of N2/N3 sleep, restricted to channels judged to record normal activity. Channel locations are given in MNI152NLin2009aSym space, supporting normative mapping of intracranial activity across brain regions.",
+  "methods_description": "Source recordings from three epilepsy centres were low-pass filtered at 80 Hz and resampled to 200 Hz, with power-line interference reduced in the 1-min set. Artifacts were visually rejected, and artifact-free segments were concatenated with zero buffers and padded to a common length. Data were converted losslessly to BrainVision float32 format, with bipolar channels and coordinates at contact midpoints.",
   "license": "CC-BY-NC-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -23,15 +23,15 @@
   },
   "keywords": [
     {
-      "term": "Intracranial EEG"
+      "term": "intracranial EEG"
     },
     {
-      "term": "Stereo-EEG"
+      "term": "stereo-EEG"
     },
     {
-      "term": "Electrocorticography",
+      "term": "Electroencephalography",
       "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     },
     {
       "term": "Sleep",
@@ -115,6 +115,7 @@
     ".eeg",
     ".gz",
     ".json",
+    ".md",
     ".pdf",
     ".sha256",
     ".tsv",
@@ -124,5 +125,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "c7c8879eb134b02ba0a640b7a9eb7269b2b4d48668d7a70936612c1960883692"
+  "source_hash": "53aa33c905b7f841ecbd58395211852157fa99cfdb51e041f74a3f47e8733e6c"
 }
