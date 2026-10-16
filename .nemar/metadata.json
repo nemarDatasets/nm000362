@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Frauscher-2018-atlas-10.1093/brain/awy035",
+  "title": "MNI Open iEEG Atlas: normal intracranial EEG in wakefulness and sleep (processed 200 Hz atlas clips)",
   "description": "Processed derivative release of the MNI Open iEEG Atlas, providing normal intracranial EEG (stereo-EEG and subdural strips/grids) from 106 patients with drug-resistant focal epilepsy. It contains one minute of artifact-free bipolar-derivation signal per vigilance state (wakefulness, N2, N3, REM) plus up to 10 minutes of N2 and N3 sleep, all resampled to 200 Hz. Only channels judged to record normal activity are included, with MNI-space electrode coordinates and region labels, and the data are provided in BIDS (BrainVision) format.",
   "methods_description": "Source authors low-pass filtered at 80 Hz and resampled to 200 Hz, applied adaptive power-line removal, visually rejected artifacts, removed per-segment channel means, and concatenated artifact-free segments with 2-s zero buffers, padded to a common length. Recordings are bipolar derivations between adjacent contacts from three epilepsy centres. Data were repacked losslessly into BrainVision IEEE_FLOAT_32 files with no further filtering or resampling.",
   "license": "CC-BY-NC-4.0",
@@ -128,5 +128,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "c2ff0f0570e3793c85818553dc9ae845f40966f1b493f0c5eb929d08582e0af8"
+  "source_hash": "1dfe4146b26bf4f2a28b7435f83487cb0e69864f70f586891bba5621d89721cd"
 }
