@@ -1,9 +1,9 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "MNI Open iEEG Atlas: normal intracranial EEG in wakefulness and sleep (processed 200 Hz atlas clips)",
-  "description": "Processed derivative release of the MNI Open iEEG Atlas, providing normal intracranial EEG (stereo-EEG and subdural strips/grids) from 106 patients with drug-resistant focal epilepsy. It includes one minute of artifact-free, 200 Hz bipolar-derivation signal per vigilance state (wakefulness, N2, N3, REM) and up to 10 minutes of N2/N3 sleep, restricted to channels judged to record normal activity. Channel locations are given in MNI152NLin2009aSym space, supporting normative mapping of intracranial activity across brain regions.",
-  "methods_description": "Source recordings from three epilepsy centres were low-pass filtered at 80 Hz and resampled to 200 Hz, with power-line interference reduced in the 1-min set. Artifacts were visually rejected, and artifact-free segments were concatenated with zero buffers and padded to a common length. Data were converted losslessly to BrainVision float32 format, with bipolar channels and coordinates at contact midpoints.",
+  "title": "Frauscher-2018-atlas-10.1093/brain/awy035",
+  "description": "Processed derivative release of the MNI Open iEEG Atlas, providing normal intracranial EEG (stereo-EEG and subdural strips/grids) from 106 patients with drug-resistant focal epilepsy. It contains one minute of artifact-free bipolar-derivation signal per vigilance state (wakefulness, N2, N3, REM) plus up to 10 minutes of N2 and N3 sleep, all resampled to 200 Hz. Only channels judged to record normal activity are included, with MNI-space electrode coordinates and region labels, and the data are provided in BIDS (BrainVision) format.",
+  "methods_description": "Source authors low-pass filtered at 80 Hz and resampled to 200 Hz, applied adaptive power-line removal, visually rejected artifacts, removed per-segment channel means, and concatenated artifact-free segments with 2-s zero buffers, padded to a common length. Recordings are bipolar derivations between adjacent contacts from three epilepsy centres. Data were repacked losslessly into BrainVision IEEE_FLOAT_32 files with no further filtering or resampling.",
   "license": "CC-BY-NC-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -29,9 +29,10 @@
       "term": "stereo-EEG"
     },
     {
-      "term": "Electroencephalography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
+      "term": "normal brain activity"
+    },
+    {
+      "term": "atlas"
     },
     {
       "term": "Sleep",
@@ -49,7 +50,9 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
     },
     {
-      "term": "normative atlas"
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
     }
   ],
   "related_identifiers": [
@@ -61,7 +64,7 @@
     {
       "identifier": "10.1002/ana.25651",
       "identifier_type": "DOI",
-      "relation_type": "IsDescribedBy"
+      "relation_type": "References"
     },
     {
       "identifier": "10.1002/ana.25304",
@@ -125,5 +128,5 @@
     ".yml",
     ".zip"
   ],
-  "source_hash": "53aa33c905b7f841ecbd58395211852157fa99cfdb51e041f74a3f47e8733e6c"
+  "source_hash": "c2ff0f0570e3793c85818553dc9ae845f40966f1b493f0c5eb929d08582e0af8"
 }
